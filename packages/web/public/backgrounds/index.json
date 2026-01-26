@@ -1,0 +1,19 @@
+{
+	"backgrounds": [
+		{
+			"id": "background2",
+			"name": "Dark Glow",
+			"file": "background2.png"
+		},
+		{
+			"id": "background1",
+			"name": "Candy Floor",
+			"file": "background1.png"
+		},
+		{
+			"id": "none",
+			"name": "Solid Color",
+			"file": null
+		}
+	]
+}

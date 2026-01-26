@@ -1,0 +1,52 @@
+{
+	"name": "stepfever",
+	"version": "0.1.0",
+	"description": "Open-source rhythm game for web browsers. Play StepMania and DDR charts with keyboard, dance pad, or gamepad.",
+	"author": "step.fever.team",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/religa/stepfever.git"
+	},
+	"homepage": "https://github.com/religa/stepfever",
+	"keywords": [
+		"rhythm-game",
+		"stepmania",
+		"ddr",
+		"dance-dance-revolution",
+		"browser-game",
+		"music-game",
+		"pixi",
+		"typescript"
+	],
+	"private": true,
+	"packageManager": "bun@1.2.0",
+	"workspaces": ["packages/core", "packages/web"],
+	"scripts": {
+		"dev": "turbo dev",
+		"dev:web": "turbo dev --filter=@stepfever/web",
+		"build": "turbo build",
+		"test": "turbo test",
+		"test:fuzz": "vitest run --testNamePattern=fuzz",
+		"test:e2e": "playwright test",
+		"test:e2e:ui": "playwright test --ui",
+		"test:e2e:headed": "playwright test --headed",
+		"test:e2e:debug": "playwright test --debug",
+		"test:e2e:report": "playwright show-report",
+		"test:e2e:codegen": "playwright codegen http://localhost:5173",
+		"lint": "biome check .",
+		"lint:fix": "biome check --write .",
+		"typecheck": "turbo typecheck"
+	},
+	"devDependencies": {
+		"@axe-core/playwright": "^4.11.0",
+		"@biomejs/biome": "^1.9.0",
+		"@playwright/test": "^1.50.0",
+		"@types/jsdom": "^27.0.0",
+		"fast-check": "^3.0.0",
+		"jsdom": "^27.4.0",
+		"turbo": "^2.4.0",
+		"typescript": "^5.7.0",
+		"vitest": "^3.0.0"
+	}
+}

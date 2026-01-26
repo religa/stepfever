@@ -1,0 +1,34 @@
+{
+	"name": "@stepfever/core",
+	"version": "0.1.0",
+	"description": "Core game logic for StepFever rhythm game - timing, judgment, scoring, and chart parsing",
+	"author": "step.fever.team",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/religa/stepfever.git",
+		"directory": "packages/core"
+	},
+	"keywords": ["rhythm-game", "stepmania", "game-engine", "timing", "scoring"],
+	"type": "module",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+	"exports": {
+		".": {
+			"import": "./dist/index.js",
+			"types": "./dist/index.d.ts"
+		}
+	},
+	"scripts": {
+		"build": "tsc",
+		"dev": "tsc --watch",
+		"test": "vitest",
+		"typecheck": "tsc --noEmit"
+	},
+	"dependencies": {
+		"valibot": "^1.0.0"
+	},
+	"devDependencies": {
+		"fast-check": "^3.0.0"
+	}
+}

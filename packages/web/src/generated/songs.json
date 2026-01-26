@@ -1,0 +1,5451 @@
+{
+  "songs": [
+    {
+      "id": "dancing-stage__(Mucho Mambo) Sway",
+      "title": "(Mucho Mambo) Sway",
+      "artist": "Shaft",
+      "bpm": 127.98,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/(Mucho%20Mambo)%20Sway/(Mucho%20Mambo)%20Sway.sm",
+          "noteCount": 68
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/(Mucho%20Mambo)%20Sway/(Mucho%20Mambo)%20Sway.sm",
+          "noteCount": 120
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/(Mucho%20Mambo)%20Sway/(Mucho%20Mambo)%20Sway.sm",
+          "noteCount": 172
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/(Mucho%20Mambo)%20Sway/(Mucho%20Mambo)%20Sway.sm",
+          "noteCount": 251
+        }
+      ],
+      "banner": "/charts/dancing-stage/(Mucho%20Mambo)%20Sway/(Mucho%20Mambo)%20Sway-jacket.png",
+      "audioFile": "/charts/dancing-stage/(Mucho%20Mambo)%20Sway/(Mucho%20Mambo)%20Sway.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__#eurodab",
+      "title": "#eurodab",
+      "artist": "Käärijä & Baby Lasagna",
+      "bpm": 175,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/%23eurodab/%23eurodab.sm",
+          "noteCount": 95
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/%23eurodab/%23eurodab.sm",
+          "noteCount": 252
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/%23eurodab/%23eurodab.sm",
+          "noteCount": 417
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/%23eurodab/%23eurodab.sm",
+          "noteCount": 514
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/%23eurodab/%23eurodab.sm",
+          "noteCount": 609
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/%23eurodab/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/%23eurodab/%23eurodab.ogg"
+    },
+    {
+      "id": "Mainstream Songs__1,2 STEP (JOHNNY BUDZ RADIO EDIT)",
+      "title": "1,2 STEP",
+      "artist": "Ciara feat. MISSY ELLIOT",
+      "bpm": 126,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/1%2C2%20STEP%20(JOHNNY%20BUDZ%20RADIO%20EDIT)/1%2C2%20STEP%20(JOHNNY%20BUDZ%20RADIO%20EDIT).sm",
+          "noteCount": 173
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/1%2C2%20STEP%20(JOHNNY%20BUDZ%20RADIO%20EDIT)/1%2C2%20STEP%20(JOHNNY%20BUDZ%20RADIO%20EDIT).sm",
+          "noteCount": 202
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/1%2C2%20STEP%20(JOHNNY%20BUDZ%20RADIO%20EDIT)/1%2C2%20STEP%20(JOHNNY%20BUDZ%20RADIO%20EDIT).sm",
+          "noteCount": 292
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/1%2C2%20STEP%20(JOHNNY%20BUDZ%20RADIO%20EDIT)/1%2C2%20Step.png",
+      "audioFile": "/charts/Mainstream%20Songs/1%2C2%20STEP%20(JOHNNY%20BUDZ%20RADIO%20EDIT)/1%2C2%20STEP%20(JOHNNY%20BUDZ%20RADIO%20EDIT).mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__24K Gold",
+      "title": "24K Gold",
+      "artist": "Malou Prytz",
+      "bpm": 122,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/24K%20Gold/24K%20Gold.sm",
+          "noteCount": 42
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/24K%20Gold/24K%20Gold.sm",
+          "noteCount": 109
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/24K%20Gold/24K%20Gold.sm",
+          "noteCount": 181
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/24K%20Gold/24K%20Gold.sm",
+          "noteCount": 229
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/24K%20Gold/24K%20Gold.sm",
+          "noteCount": 435
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/24K%20Gold/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/24K%20Gold/24K%20Gold.ogg"
+    },
+    {
+      "id": "dancing-stage__5, 6, 7, 8",
+      "title": "5, 6, 7, 8",
+      "artist": "STEPS",
+      "bpm": 140.03,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/5%2C%206%2C%207%2C%208/5%2C%206%2C%207%2C%208.sm",
+          "noteCount": 160
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/5%2C%206%2C%207%2C%208/5%2C%206%2C%207%2C%208.sm",
+          "noteCount": 193
+        },
+        {
+          "name": "Medium",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/5%2C%206%2C%207%2C%208/5%2C%206%2C%207%2C%208.sm",
+          "noteCount": 227
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/5%2C%206%2C%207%2C%208/5%2C%206%2C%207%2C%208.sm",
+          "noteCount": 297
+        }
+      ],
+      "banner": "/charts/dancing-stage/5%2C%206%2C%207%2C%208/5%2C%206%2C%207%2C%208-jacket.png",
+      "audioFile": "/charts/dancing-stage/5%2C%206%2C%207%2C%208/5%2C%206%2C%207%2C%208.mp3"
+    },
+    {
+      "id": "dancing-stage__AARON'S PARTY COME GET IT",
+      "title": "AARON'S PARTY/COME GET IT",
+      "artist": "AARON CARTER",
+      "bpm": 117,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/AARON'S%20PARTY%20COME%20GET%20IT/AARON'S%20PARTY%20COME%20GET%20IT.sm",
+          "noteCount": 70
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/AARON'S%20PARTY%20COME%20GET%20IT/AARON'S%20PARTY%20COME%20GET%20IT.sm",
+          "noteCount": 112
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/AARON'S%20PARTY%20COME%20GET%20IT/AARON'S%20PARTY%20COME%20GET%20IT.sm",
+          "noteCount": 186
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/dancing-stage/AARON'S%20PARTY%20COME%20GET%20IT/AARON'S%20PARTY%20COME%20GET%20IT.sm",
+          "noteCount": 240
+        }
+      ],
+      "banner": "/charts/dancing-stage/AARON'S%20PARTY%20COME%20GET%20IT/AARON'S%20PARTY%20COME%20GET%20IT-jacket.png",
+      "audioFile": "/charts/dancing-stage/AARON'S%20PARTY%20COME%20GET%20IT/AARON'S%20PARTY%20COME%20GET%20IT.mp3"
+    },
+    {
+      "id": "Mainstream Songs__Another Night (DJ Tora Vocal Mix)",
+      "title": "ANOTHER NIGHT",
+      "artist": "MORGANA",
+      "bpm": 143.65,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/Another%20Night%20(DJ%20Tora%20Vocal%20Mix)/Another%20Night%20(DJ%20Tora%20Vocal%20Mix).sm",
+          "noteCount": 341
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/Another%20Night%20(DJ%20Tora%20Vocal%20Mix)/Another%20Night%20(DJ%20Tora%20Vocal%20Mix).sm",
+          "noteCount": 213
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/Another%20Night%20(DJ%20Tora%20Vocal%20Mix)/Another%20Night%20(DJ%20Tora%20Vocal%20Mix).sm",
+          "noteCount": 144
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Another%20Night%20(DJ%20Tora%20Vocal%20Mix)/banner.png",
+      "audioFile": "/charts/Mainstream%20Songs/Another%20Night%20(DJ%20Tora%20Vocal%20Mix)/Another%20Night%20(DJ%20Tora%20Vocal%20Mix).mp3"
+    },
+    {
+      "id": "Mainstream Songs__ANOTHER NIGHT, ANOTHER DREAM - Real McCoy",
+      "title": "ANOTHER NIGHT, ANOTHER DREAM",
+      "artist": "Real McCoy",
+      "bpm": 126,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy.sm",
+          "noteCount": 112
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy.sm",
+          "noteCount": 186
+        },
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy.sm",
+          "noteCount": 357
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy.sm",
+          "noteCount": 93
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy.png",
+      "audioFile": "/charts/Mainstream%20Songs/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__APPETITE",
+      "title": "APPETITE",
+      "artist": "Go-Jo & Erika Vikman",
+      "bpm": 155,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/APPETITE/APPETITE.sm",
+          "noteCount": 64
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/APPETITE/APPETITE.sm",
+          "noteCount": 157
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/APPETITE/APPETITE.sm",
+          "noteCount": 255
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/APPETITE/APPETITE.sm",
+          "noteCount": 366
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/APPETITE/APPETITE.sm",
+          "noteCount": 530
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/APPETITE/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/APPETITE/APPETITE.ogg"
+    },
+    {
+      "id": "dancing-stage__B4U (B4 ZA BEAT MIX)",
+      "title": "B4U(B4 ZA BEAT MIX)",
+      "artist": "NAOKI",
+      "bpm": {
+        "min": 170,
+        "max": 171
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/B4U%20(B4%20ZA%20BEAT%20MIX)/B4U%20(B4%20ZA%20BEAT%20MIX).sm",
+          "noteCount": 122
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/B4U%20(B4%20ZA%20BEAT%20MIX)/B4U%20(B4%20ZA%20BEAT%20MIX).sm",
+          "noteCount": 187
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/B4U%20(B4%20ZA%20BEAT%20MIX)/B4U%20(B4%20ZA%20BEAT%20MIX).sm",
+          "noteCount": 216
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/B4U%20(B4%20ZA%20BEAT%20MIX)/B4U%20(B4%20ZA%20BEAT%20MIX).sm",
+          "noteCount": 255
+        }
+      ],
+      "banner": "/charts/dancing-stage/B4U%20(B4%20ZA%20BEAT%20MIX)/B4U%20(B4%20ZA%20BEAT%20MIX)-jacket.png",
+      "audioFile": "/charts/dancing-stage/B4U%20(B4%20ZA%20BEAT%20MIX)/B4U%20(B4%20ZA%20BEAT%20MIX).ogg"
+    },
+    {
+      "id": "Mainstream Songs__BACKDOOR LOVER",
+      "title": "BACKDOOR LOVER",
+      "artist": "DUJOUR",
+      "bpm": 112.02,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/BACKDOOR%20LOVER/BACKDOOR%20LOVER.sm",
+          "noteCount": 147
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/BACKDOOR%20LOVER/BACKDOOR%20LOVER.sm",
+          "noteCount": 174
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/BACKDOOR%20LOVER/BACKDOOR%20LOVER.sm",
+          "noteCount": 229
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/BACKDOOR%20LOVER/BACKDOOR%20LOVER.sm",
+          "noteCount": 101
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/BACKDOOR%20LOVER/BACKDOOR%20LOVER.png",
+      "audioFile": "/charts/Mainstream%20Songs/BACKDOOR%20LOVER/BACKDOOR%20LOVER%20(EDIT).mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Bad",
+      "title": "Bad",
+      "artist": "W&W & KSHMR",
+      "bpm": 140,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Bad/Bad.sm",
+          "noteCount": 54
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Bad/Bad.sm",
+          "noteCount": 149
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Bad/Bad.sm",
+          "noteCount": 280
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Bad/Bad.sm",
+          "noteCount": 376
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Bad/Bad.sm",
+          "noteCount": 524
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Bad/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Bad/Bad.ogg"
+    },
+    {
+      "id": "Mainstream Songs__Bad Boy (Radio Mix)",
+      "title": "Bad Boy",
+      "artist": "Cascade",
+      "bpm": {
+        "min": 70,
+        "max": 140
+      },
+      "difficulties": [
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/Bad%20Boy%20(Radio%20Mix).sm",
+          "noteCount": 200
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/Bad%20Boy%20(Radio%20Mix).sm",
+          "noteCount": 169
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/Bad%20Boy%20(Radio%20Mix).sm",
+          "noteCount": 387
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/Bad%20Boy%20(Radio%20Mix).sm",
+          "noteCount": 289
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/badboy-bn.png",
+      "audioFile": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/Bad%20Boy%20(Radio%20Mix).mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Baller (nowifi Remix)",
+      "title": "Baller",
+      "artist": "Abor & Tynna",
+      "bpm": {
+        "min": 142,
+        "max": 145
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Baller%20(nowifi%20Remix)/Baller%20(nowifi%20Remix).sm",
+          "noteCount": 38
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Baller%20(nowifi%20Remix)/Baller%20(nowifi%20Remix).sm",
+          "noteCount": 118
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Baller%20(nowifi%20Remix)/Baller%20(nowifi%20Remix).sm",
+          "noteCount": 204
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Baller%20(nowifi%20Remix)/Baller%20(nowifi%20Remix).sm",
+          "noteCount": 314
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Baller%20(nowifi%20Remix)/Baller%20(nowifi%20Remix).sm",
+          "noteCount": 411
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Baller%20(nowifi%20Remix)/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Baller%20(nowifi%20Remix)/Baller%20(nowifi%20Remix).ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Bara Bada Bastu",
+      "title": "Bara Bada Bastu",
+      "artist": "KAJ",
+      "bpm": 106,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Bara%20Bada%20Bastu/Bara%20Bada%20Bastu.sm",
+          "noteCount": 45
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Bara%20Bada%20Bastu/Bara%20Bada%20Bastu.sm",
+          "noteCount": 94
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Bara%20Bada%20Bastu/Bara%20Bada%20Bastu.sm",
+          "noteCount": 172
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Bara%20Bada%20Bastu/Bara%20Bada%20Bastu.sm",
+          "noteCount": 289
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Bara%20Bada%20Bastu/Bara%20Bada%20Bastu.sm",
+          "noteCount": 387
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Bara%20Bada%20Bastu/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Bara%20Bada%20Bastu/Bara%20Bada%20Bastu.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Be The One (Radio Edit)",
+      "title": "Be The One",
+      "artist": "BARTEE",
+      "bpm": 143,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Be%20The%20One%20(Radio%20Edit)/Be%20The%20One%20(Radio%20Edit).sm",
+          "noteCount": 69
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Be%20The%20One%20(Radio%20Edit)/Be%20The%20One%20(Radio%20Edit).sm",
+          "noteCount": 194
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Be%20The%20One%20(Radio%20Edit)/Be%20The%20One%20(Radio%20Edit).sm",
+          "noteCount": 344
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Be%20The%20One%20(Radio%20Edit)/Be%20The%20One%20(Radio%20Edit).sm",
+          "noteCount": 504
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Be%20The%20One%20(Radio%20Edit)/Be%20The%20One%20(Radio%20Edit).sm",
+          "noteCount": 686
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Be%20The%20One%20(Radio%20Edit)/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Be%20The%20One%20(Radio%20Edit)/Be%20The%20One%20(Radio%20Edit).ogg"
+    },
+    {
+      "id": "Mainstream Songs__Beep",
+      "title": "Beep",
+      "artist": "Pussycat Dolls",
+      "bpm": {
+        "min": 103,
+        "max": 104
+      },
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
+          "noteCount": 683
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
+          "noteCount": 939
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
+          "noteCount": 431
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
+          "noteCount": 249
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
+          "noteCount": 148
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Beep/Beep.png",
+      "audioFile": "/charts/Mainstream%20Songs/Beep/Beep.mp3"
+    },
+    {
+      "id": "Mainstream Songs__BEEP (Dance Version) - MC JOE & THE VANILLAS",
+      "title": "BEEP",
+      "artist": "MC JOE & THE VANILLAS",
+      "bpm": 128,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS.sm",
+          "noteCount": 82
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS.sm",
+          "noteCount": 157
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS.sm",
+          "noteCount": 233
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS.sm",
+          "noteCount": 353
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS.png",
+      "audioFile": "/charts/Mainstream%20Songs/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS/BEEP%20(Dance%20Version)%20-%20MC%20JOE%20%26%20THE%20VANILLAS.mp3"
+    },
+    {
+      "id": "dancing-stage__Believe",
+      "title": "Believe",
+      "artist": "Eddie.J",
+      "bpm": 136,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Believe/Believe.sm",
+          "noteCount": 107
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/Believe/Believe.sm",
+          "noteCount": 140
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/Believe/Believe.sm",
+          "noteCount": 242
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Believe/Believe.sm",
+          "noteCount": 310
+        }
+      ],
+      "banner": "/charts/dancing-stage/Believe/Believe-jacket.png",
+      "audioFile": "/charts/dancing-stage/Believe/Believe.ogg"
+    },
+    {
+      "id": "Mainstream Songs__BING BANG",
+      "title": "BING BANG",
+      "artist": "LAZY TOWN",
+      "bpm": 134,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.sm",
+          "noteCount": 207
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.sm",
+          "noteCount": 421
+        },
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.sm",
+          "noteCount": 142
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.sm",
+          "noteCount": 259
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.png",
+      "audioFile": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Blush",
+      "title": "Blush",
+      "artist": "nanobii",
+      "bpm": 152,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Blush/Blush.sm",
+          "noteCount": 38
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Blush/Blush.sm",
+          "noteCount": 120
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Blush/Blush.sm",
+          "noteCount": 243
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Blush/Blush.sm",
+          "noteCount": 335
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Blush/Blush.sm",
+          "noteCount": 494
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Blush/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Blush/Blush.ogg"
+    },
+    {
+      "id": "Mainstream Songs__Bom Digi Bom (Think About The Way)",
+      "title": "Bom Digi Bom",
+      "artist": "Ice MC",
+      "bpm": {
+        "min": 67,
+        "max": 133
+      },
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way).sm",
+          "noteCount": 198
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way).sm",
+          "noteCount": 348
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way).sm",
+          "noteCount": 471
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way).sm",
+          "noteCount": 399
+        },
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way).sm",
+          "noteCount": 90
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way).mp3"
+    },
+    {
+      "id": "Mainstream Songs__BUTTONS (Dave Aude Button Fly Mix) - The Pussycat Dolls",
+      "title": "BUTTONS",
+      "artist": "The Pussycat Dolls",
+      "bpm": 127,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls.sm",
+          "noteCount": 88
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls.sm",
+          "noteCount": 216
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls.sm",
+          "noteCount": 267
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls.sm",
+          "noteCount": 149
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls.png",
+      "audioFile": "/charts/Mainstream%20Songs/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls.mp3"
+    },
+    {
+      "id": "Mainstream Songs__BYE BYE BIKE",
+      "title": "BYE BYE BIKE",
+      "artist": "CREAMY",
+      "bpm": {
+        "min": 69,
+        "max": 138
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/BYE%20BYE%20BIKE/BYE%20BYE%20BIKE.sm",
+          "noteCount": 135
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/BYE%20BYE%20BIKE/BYE%20BYE%20BIKE.sm",
+          "noteCount": 191
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/BYE%20BYE%20BIKE/BYE%20BYE%20BIKE.sm",
+          "noteCount": 291
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/BYE%20BYE%20BIKE/BYE%20BYE%20BIKE.sm",
+          "noteCount": 385
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/BYE%20BYE%20BIKE/BYE%20BYE%20BIKE.sm",
+          "noteCount": 505
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/BYE%20BYE%20BIKE/BYE%20BYE%20BIKE%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/BYE%20BYE%20BIKE/BYE%20BYE%20BIKE.mp3"
+    },
+    {
+      "id": "dancing-stage__BYE BYE BYE",
+      "title": "BYE BYE BYE",
+      "artist": "★NSYNC",
+      "bpm": 86.285,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/BYE%20BYE%20BYE/BYE%20BYE%20BYE.sm",
+          "noteCount": 96
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/BYE%20BYE%20BYE/BYE%20BYE%20BYE.sm",
+          "noteCount": 95
+        },
+        {
+          "name": "Medium",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/BYE%20BYE%20BYE/BYE%20BYE%20BYE.sm",
+          "noteCount": 145
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/BYE%20BYE%20BYE/BYE%20BYE%20BYE.sm",
+          "noteCount": 214
+        }
+      ],
+      "banner": "/charts/dancing-stage/BYE%20BYE%20BYE/BYE%20BYE%20BYE-jacket.png",
+      "audioFile": "/charts/dancing-stage/BYE%20BYE%20BYE/BYE%20BYE%20BYE.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Call You Now",
+      "title": "Call You Now",
+      "artist": "NIVIRO",
+      "bpm": 140,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Call%20You%20Now/Call%20You%20Now.sm",
+          "noteCount": 53
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Call%20You%20Now/Call%20You%20Now.sm",
+          "noteCount": 173
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Call%20You%20Now/Call%20You%20Now.sm",
+          "noteCount": 274
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Call%20You%20Now/Call%20You%20Now.sm",
+          "noteCount": 379
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Call%20You%20Now/Call%20You%20Now.sm",
+          "noteCount": 578
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Call%20You%20Now/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Call%20You%20Now/Call%20You%20Now.ogg"
+    },
+    {
+      "id": "dancing-stage__CARIBBEAN QUEEN",
+      "title": "CARIBBEAN QUEEN",
+      "artist": "BILLY OCEAN",
+      "bpm": 114.57,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/CARIBBEAN%20QUEEN/CARIBBEAN%20QUEEN.sm",
+          "noteCount": 79
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/CARIBBEAN%20QUEEN/CARIBBEAN%20QUEEN.sm",
+          "noteCount": 95
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/CARIBBEAN%20QUEEN/CARIBBEAN%20QUEEN.sm",
+          "noteCount": 156
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/CARIBBEAN%20QUEEN/CARIBBEAN%20QUEEN.sm",
+          "noteCount": 235
+        }
+      ],
+      "banner": "/charts/dancing-stage/CARIBBEAN%20QUEEN/CARIBBEAN%20QUEEN-jacket.png",
+      "audioFile": "/charts/dancing-stage/CARIBBEAN%20QUEEN/CARIBBEAN%20QUEEN.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Castles In The Sky",
+      "title": "Castles In The Sky",
+      "artist": "JRMX",
+      "bpm": 138,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Castles%20In%20The%20Sky/Castles%20In%20The%20Sky.sm",
+          "noteCount": 62
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Castles%20In%20The%20Sky/Castles%20In%20The%20Sky.sm",
+          "noteCount": 96
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Castles%20In%20The%20Sky/Castles%20In%20The%20Sky.sm",
+          "noteCount": 244
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Castles%20In%20The%20Sky/Castles%20In%20The%20Sky.sm",
+          "noteCount": 310
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Castles%20In%20The%20Sky/Castles%20In%20The%20Sky.sm",
+          "noteCount": 446
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Castles%20In%20The%20Sky/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Castles%20In%20The%20Sky/Castles%20In%20The%20Sky.ogg"
+    },
+    {
+      "id": "Mainstream Songs__CHEMISTRY OF A CAR CRASH",
+      "title": "CHEMISTRY OF A CAR CRASH",
+      "artist": "SHINY TOY GUNS",
+      "bpm": 101,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/CHEMISTRY%20OF%20A%20CAR%20CRASH/CHEMISTRY%20OF%20A%20CAR%20CRASH.sm",
+          "noteCount": 195
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/CHEMISTRY%20OF%20A%20CAR%20CRASH/CHEMISTRY%20OF%20A%20CAR%20CRASH.sm",
+          "noteCount": 163
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/CHEMISTRY%20OF%20A%20CAR%20CRASH/CHEMISTRY%20OF%20A%20CAR%20CRASH.sm",
+          "noteCount": 104
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/CHEMISTRY%20OF%20A%20CAR%20CRASH/CHEMISTRY%20OF%20A%20CAR%20CRASH.sm",
+          "noteCount": 55
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/CHEMISTRY%20OF%20A%20CAR%20CRASH/CHEMISTRY%20OF%20A%20CAR%20CRASH.png",
+      "audioFile": "/charts/Mainstream%20Songs/CHEMISTRY%20OF%20A%20CAR%20CRASH/CHEMISTRY%20OF%20A%20CAR%20CRASH.mp3"
+    },
+    {
+      "id": "dancing-stage__COTTON-EYE JOE",
+      "title": "COTTON-EYE JOE",
+      "artist": "REDNEX",
+      "bpm": 132,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/COTTON-EYE%20JOE/COTTON-EYE%20JOE.sm",
+          "noteCount": 106
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/COTTON-EYE%20JOE/COTTON-EYE%20JOE.sm",
+          "noteCount": 128
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/COTTON-EYE%20JOE/COTTON-EYE%20JOE.sm",
+          "noteCount": 244
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/COTTON-EYE%20JOE/COTTON-EYE%20JOE.sm",
+          "noteCount": 315
+        }
+      ],
+      "banner": "/charts/dancing-stage/COTTON-EYE%20JOE/COTTON-EYE%20JOE-jacket.png",
+      "audioFile": "/charts/dancing-stage/COTTON-EYE%20JOE/COTTON-EYE%20JOE.mp3"
+    },
+    {
+      "id": "dancing-stage__Danger! High Voltage",
+      "title": "Danger! High Voltage",
+      "artist": "Electric Six",
+      "bpm": 123.02,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Danger!%20High%20Voltage/Danger!%20High%20Voltage.sm",
+          "noteCount": 97
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/Danger!%20High%20Voltage/Danger!%20High%20Voltage.sm",
+          "noteCount": 158
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Danger!%20High%20Voltage/Danger!%20High%20Voltage.sm",
+          "noteCount": 232
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Danger!%20High%20Voltage/Danger!%20High%20Voltage.sm",
+          "noteCount": 343
+        }
+      ],
+      "banner": "/charts/dancing-stage/Danger!%20High%20Voltage/Danger!%20High%20Voltage-jacket.png",
+      "audioFile": "/charts/dancing-stage/Danger!%20High%20Voltage/Danger!%20High%20Voltage.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Dangerous",
+      "title": "Dangerous",
+      "artist": "Senhit",
+      "bpm": 145,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Dangerous/Dangerous.sm",
+          "noteCount": 54
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Dangerous/Dangerous.sm",
+          "noteCount": 125
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Dangerous/Dangerous.sm",
+          "noteCount": 265
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Dangerous/Dangerous.sm",
+          "noteCount": 378
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Dangerous/Dangerous.sm",
+          "noteCount": 521
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Dangerous/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Dangerous/Dangerous.ogg"
+    },
+    {
+      "id": "Mainstream Songs__Dangerous",
+      "title": "DANGEROUS",
+      "artist": "MICHAEL JACKSON",
+      "bpm": 112.72,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/Dangerous/Dangerous.sm",
+          "noteCount": 238
+        },
+        {
+          "name": "Medium",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/Dangerous/Dangerous.sm",
+          "noteCount": 160
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/Dangerous/Dangerous.sm",
+          "noteCount": 74
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/Dangerous/Dangerous.sm",
+          "noteCount": 146
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Dangerous/dangerous%20bn.png",
+      "audioFile": "/charts/Mainstream%20Songs/Dangerous/Dangerous.mp3"
+    },
+    {
+      "id": "Mainstream Songs__death from above",
+      "title": "Death from above",
+      "artist": "Machinae Supremacy",
+      "bpm": 252.004,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/death%20from%20above/death%20from%20above.sm",
+          "noteCount": 425
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/death%20from%20above/death%20from%20above.sm",
+          "noteCount": 225
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/death%20from%20above/death%20from%20above.sm",
+          "noteCount": 129
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/death%20from%20above/death%20from%20above.png",
+      "audioFile": "/charts/Mainstream%20Songs/death%20from%20above/death%20from%20above.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Don't Click Play",
+      "title": "Don't Click Play",
+      "artist": "Ava Max",
+      "bpm": 124,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Don't%20Click%20Play/Don't%20Click%20Play.sm",
+          "noteCount": 51
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Don't%20Click%20Play/Don't%20Click%20Play.sm",
+          "noteCount": 122
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Don't%20Click%20Play/Don't%20Click%20Play.sm",
+          "noteCount": 156
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Don't%20Click%20Play/Don't%20Click%20Play.sm",
+          "noteCount": 210
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Don't%20Click%20Play/Don't%20Click%20Play.sm",
+          "noteCount": 358
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Don't%20Click%20Play/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Don't%20Click%20Play/Don't%20Click%20Play.ogg"
+    },
+    {
+      "id": "Mainstream Songs__DON'T STOP BELIEVIN' (DANCE VERSION) - Axel Force",
+      "title": "DON'T STOP BELIEVIN'",
+      "artist": "Axel Force",
+      "bpm": 137.98,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force.sm",
+          "noteCount": 91
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force.sm",
+          "noteCount": 167
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force.sm",
+          "noteCount": 238
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force.sm",
+          "noteCount": 372
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force.png",
+      "audioFile": "/charts/Mainstream%20Songs/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force/DON'T%20STOP%20BELIEVIN'%20(DANCE%20VERSION)%20-%20Axel%20Force.mp3"
+    },
+    {
+      "id": "dancing-stage__DON'T TRY TO STOP IT",
+      "title": "DON'T TRY TO STOP IT",
+      "artist": "ROMAN HOLIDAY",
+      "bpm": {
+        "min": 180,
+        "max": 205
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/DON'T%20TRY%20TO%20STOP%20IT/DON'T%20TRY%20TO%20STOP%20IT.sm",
+          "noteCount": 96
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/DON'T%20TRY%20TO%20STOP%20IT/DON'T%20TRY%20TO%20STOP%20IT.sm",
+          "noteCount": 142
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/DON'T%20TRY%20TO%20STOP%20IT/DON'T%20TRY%20TO%20STOP%20IT.sm",
+          "noteCount": 206
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/dancing-stage/DON'T%20TRY%20TO%20STOP%20IT/DON'T%20TRY%20TO%20STOP%20IT.sm",
+          "noteCount": 321
+        }
+      ],
+      "banner": "/charts/dancing-stage/DON'T%20TRY%20TO%20STOP%20IT/DON'T%20TRY%20TO%20STOP%20IT-jacket.png",
+      "audioFile": "/charts/dancing-stage/DON'T%20TRY%20TO%20STOP%20IT/DON'T%20TRY%20TO%20STOP%20IT.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Elevate (Feat. RANI)",
+      "title": "Elevate",
+      "artist": "Lewis Thompson",
+      "bpm": 135,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Elevate%20(Feat.%20RANI)/Elevate%20(Feat.%20RANI).sm",
+          "noteCount": 62
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Elevate%20(Feat.%20RANI)/Elevate%20(Feat.%20RANI).sm",
+          "noteCount": 175
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Elevate%20(Feat.%20RANI)/Elevate%20(Feat.%20RANI).sm",
+          "noteCount": 295
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Elevate%20(Feat.%20RANI)/Elevate%20(Feat.%20RANI).sm",
+          "noteCount": 359
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Elevate%20(Feat.%20RANI)/Elevate%20(Feat.%20RANI).sm",
+          "noteCount": 547
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Elevate%20(Feat.%20RANI)/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Elevate%20(Feat.%20RANI)/Elevate%20(Feat.%20RANI).ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Elevator Operator",
+      "title": "Elevator Operator",
+      "artist": "Electric Callboy",
+      "bpm": {
+        "min": 73,
+        "max": 145
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Elevator%20Operator/Elevator%20Operator.sm",
+          "noteCount": 80
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Elevator%20Operator/Elevator%20Operator.sm",
+          "noteCount": 178
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Elevator%20Operator/Elevator%20Operator.sm",
+          "noteCount": 324
+        },
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Elevator%20Operator/Elevator%20Operator.sm",
+          "noteCount": 473
+        },
+        {
+          "name": "Challenge",
+          "level": 11,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Elevator%20Operator/Elevator%20Operator.sm",
+          "noteCount": 709
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Elevator%20Operator/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Elevator%20Operator/Elevator%20Operator.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Euphoria (With Alok)",
+      "title": "Euphoria",
+      "artist": "Armin van Buuren, Norma Jean Martine, LAWRENT",
+      "bpm": 132,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Euphoria%20(With%20Alok)/Euphoria.sm",
+          "noteCount": 37
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Euphoria%20(With%20Alok)/Euphoria.sm",
+          "noteCount": 108
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Euphoria%20(With%20Alok)/Euphoria.sm",
+          "noteCount": 158
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Euphoria%20(With%20Alok)/Euphoria.sm",
+          "noteCount": 247
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Euphoria%20(With%20Alok)/Euphoria.sm",
+          "noteCount": 345
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Euphoria%20(With%20Alok)/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Euphoria%20(With%20Alok)/Euphoria.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__exes (Syn Cole Remix)",
+      "title": "exes",
+      "artist": "Tate McRae",
+      "bpm": 137,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/exes%20(Syn%20Cole%20Remix)/exes%20(Syn%20Cole%20Remix).sm",
+          "noteCount": 46
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/exes%20(Syn%20Cole%20Remix)/exes%20(Syn%20Cole%20Remix).sm",
+          "noteCount": 142
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/exes%20(Syn%20Cole%20Remix)/exes%20(Syn%20Cole%20Remix).sm",
+          "noteCount": 259
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/exes%20(Syn%20Cole%20Remix)/exes%20(Syn%20Cole%20Remix).sm",
+          "noteCount": 410
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/exes%20(Syn%20Cole%20Remix)/exes%20(Syn%20Cole%20Remix).sm",
+          "noteCount": 541
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/exes%20(Syn%20Cole%20Remix)/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/exes%20(Syn%20Cole%20Remix)/exes%20(Syn%20Cole%20Remix).ogg"
+    },
+    {
+      "id": "Mainstream Songs__Explosive",
+      "title": "Explosive",
+      "artist": "bond",
+      "bpm": 115.02,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/Explosive/explosive.sm",
+          "noteCount": 214
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/Explosive/explosive.sm",
+          "noteCount": 332
+        },
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/Explosive/explosive.sm",
+          "noteCount": 536
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Explosive/explosive.png",
+      "audioFile": "/charts/Mainstream%20Songs/Explosive/explosive.mp3"
+    },
+    {
+      "id": "Mainstream Songs__xtc",
+      "title": "Extacy",
+      "artist": "Darude",
+      "bpm": 145,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/xtc/Extacy.sm",
+          "noteCount": 280
+        },
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/xtc/Extacy.sm",
+          "noteCount": 568
+        },
+        {
+          "name": "Challenge",
+          "level": 11,
+          "chartPath": "/charts/Mainstream%20Songs/xtc/Extacy.sm",
+          "noteCount": 828
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/xtc/Extacy.sm",
+          "noteCount": 385
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/xtc/Extacy.sm",
+          "noteCount": 126
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/xtc/Extacy%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/xtc/Extacy.mp3"
+    },
+    {
+      "id": "dancing-stage__Familiar Feeling",
+      "title": "Familiar Feeling",
+      "artist": "MOLOKO",
+      "bpm": 132,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Familiar%20Feeling/Familiar%20Feeling.sm",
+          "noteCount": 101
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/Familiar%20Feeling/Familiar%20Feeling.sm",
+          "noteCount": 148
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Familiar%20Feeling/Familiar%20Feeling.sm",
+          "noteCount": 220
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Familiar%20Feeling/Familiar%20Feeling.sm",
+          "noteCount": 338
+        }
+      ],
+      "banner": "/charts/dancing-stage/Familiar%20Feeling/Familiar%20Feeling-jacket.png",
+      "audioFile": "/charts/dancing-stage/Familiar%20Feeling/Familiar%20Feeling.ogg"
+    },
+    {
+      "id": "Mainstream Songs__FERGALICIOUS",
+      "title": "FERGALICIOUS",
+      "artist": "Fergie Feat. Will.I.Am",
+      "bpm": 129.01,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/FERGALICIOUS/FERGALICIOUS.sm",
+          "noteCount": 437
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/FERGALICIOUS/FERGALICIOUS.sm",
+          "noteCount": 317
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/FERGALICIOUS/FERGALICIOUS.sm",
+          "noteCount": 490
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/FERGALICIOUS/FERGALICIOUS.sm",
+          "noteCount": 252
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/FERGALICIOUS/FERGALICIOUS-banner.png",
+      "audioFile": "/charts/Mainstream%20Songs/FERGALICIOUS/FERGALICIOUS.mp3"
+    },
+    {
+      "id": "Mainstream Songs__floorfiller",
+      "title": "floorfiller",
+      "artist": "A-TEENS",
+      "bpm": 122,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/floorfiller/floorfiller.sm",
+          "noteCount": 159
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/floorfiller/floorfiller.sm",
+          "noteCount": 237
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/floorfiller/floorfiller.sm",
+          "noteCount": 273
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/floorfiller/floorfiller%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/floorfiller/floorfiller.mp3"
+    },
+    {
+      "id": "dancing-stage__Freak Like Me",
+      "title": "Freak Like Me",
+      "artist": "Sugababes",
+      "bpm": 91.86,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Freak%20Like%20Me/Freak%20Like%20Me.sm",
+          "noteCount": 43
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/Freak%20Like%20Me/Freak%20Like%20Me.sm",
+          "noteCount": 46
+        },
+        {
+          "name": "Medium",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/Freak%20Like%20Me/Freak%20Like%20Me.sm",
+          "noteCount": 107
+        },
+        {
+          "name": "Hard",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/Freak%20Like%20Me/Freak%20Like%20Me.sm",
+          "noteCount": 133
+        }
+      ],
+      "banner": "/charts/dancing-stage/Freak%20Like%20Me/Freak%20Like%20Me-jacket.png",
+      "audioFile": "/charts/dancing-stage/Freak%20Like%20Me/Freak%20Like%20Me.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__FREAKY",
+      "title": "FREAKY",
+      "artist": "Little Sis Nora",
+      "bpm": 145,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/FREAKY/FREAKY.sm",
+          "noteCount": 69
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/FREAKY/FREAKY.sm",
+          "noteCount": 174
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/FREAKY/FREAKY.sm",
+          "noteCount": 246
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/FREAKY/FREAKY.sm",
+          "noteCount": 341
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/FREAKY/FREAKY.sm",
+          "noteCount": 542
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/FREAKY/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/FREAKY/FREAKY.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__GABBA GABBA",
+      "title": "GABBA GABBA",
+      "artist": "Little Sis Nora",
+      "bpm": {
+        "min": 160,
+        "max": 170
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/GABBA%20GABBA/GABBA%20GABBA.sm",
+          "noteCount": 58
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/GABBA%20GABBA/GABBA%20GABBA.sm",
+          "noteCount": 196
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/GABBA%20GABBA/GABBA%20GABBA.sm",
+          "noteCount": 299
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/GABBA%20GABBA/GABBA%20GABBA.sm",
+          "noteCount": 375
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/GABBA%20GABBA/GABBA%20GABBA.sm",
+          "noteCount": 524
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/GABBA%20GABBA/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/GABBA%20GABBA/GABBA%20GABBA.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Get Yourself Together",
+      "title": "Get Yourself Together",
+      "artist": "Cut 'N' Move",
+      "bpm": 130,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Get%20Yourself%20Together/Get%20Yourself%20Together.sm",
+          "noteCount": 65
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Get%20Yourself%20Together/Get%20Yourself%20Together.sm",
+          "noteCount": 116
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Get%20Yourself%20Together/Get%20Yourself%20Together.sm",
+          "noteCount": 213
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Get%20Yourself%20Together/Get%20Yourself%20Together.sm",
+          "noteCount": 278
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Get%20Yourself%20Together/Get%20Yourself%20Together.sm",
+          "noteCount": 524
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Get%20Yourself%20Together/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Get%20Yourself%20Together/Get%20Yourself%20Together.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Gnarly",
+      "title": "Gnarly",
+      "artist": "KATSEYE",
+      "bpm": 135,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Gnarly/Gnarly.sm",
+          "noteCount": 69
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Gnarly/Gnarly.sm",
+          "noteCount": 162
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Gnarly/Gnarly.sm",
+          "noteCount": 317
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Gnarly/Gnarly.sm",
+          "noteCount": 472
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Gnarly/Gnarly.sm",
+          "noteCount": 595
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Gnarly/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Gnarly/Gnarly.ogg"
+    },
+    {
+      "id": "Mainstream Songs__GOLD DIGGER - DB SOUND",
+      "title": "GOLD DIGGER",
+      "artist": "DB SOUND",
+      "bpm": 128,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/GOLD%20DIGGER%20-%20DB%20SOUND/GOLD%20DIGGER%20-%20DB%20SOUND.sm",
+          "noteCount": 100
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/GOLD%20DIGGER%20-%20DB%20SOUND/GOLD%20DIGGER%20-%20DB%20SOUND.sm",
+          "noteCount": 155
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/GOLD%20DIGGER%20-%20DB%20SOUND/GOLD%20DIGGER%20-%20DB%20SOUND.sm",
+          "noteCount": 237
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/GOLD%20DIGGER%20-%20DB%20SOUND/GOLD%20DIGGER%20-%20DB%20SOUND.sm",
+          "noteCount": 354
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/GOLD%20DIGGER%20-%20DB%20SOUND/GOLD%20DIGGER%20-%20DB%20SOUND.png",
+      "audioFile": "/charts/Mainstream%20Songs/GOLD%20DIGGER%20-%20DB%20SOUND/GOLD%20DIGGER%20-%20DB%20SOUND.mp3"
+    },
+    {
+      "id": "dancing-stage__Good Luck",
+      "title": "Good Luck",
+      "artist": "BASEMENT JAXX feat. Lisa Kekaula",
+      "bpm": {
+        "min": 77,
+        "max": 154
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Good%20Luck/Good%20Luck.sm",
+          "noteCount": 97
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/Good%20Luck/Good%20Luck.sm",
+          "noteCount": 123
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/Good%20Luck/Good%20Luck.sm",
+          "noteCount": 228
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/dancing-stage/Good%20Luck/Good%20Luck.sm",
+          "noteCount": 328
+        }
+      ],
+      "banner": "/charts/dancing-stage/Good%20Luck/Good%20Luck-jacket.png",
+      "audioFile": "/charts/dancing-stage/Good%20Luck/Good%20Luck.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Hallucination",
+      "title": "Hallucination",
+      "artist": "Sissal",
+      "bpm": {
+        "min": 70,
+        "max": 150
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Hallucination/Hallucination.sm",
+          "noteCount": 42
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Hallucination/Hallucination.sm",
+          "noteCount": 140
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Hallucination/Hallucination.sm",
+          "noteCount": 205
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Hallucination/Hallucination.sm",
+          "noteCount": 421
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Hallucination/Hallucination.sm",
+          "noteCount": 633
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Hallucination/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Hallucination/Hallucination.ogg"
+    },
+    {
+      "id": "Mainstream Songs__HANGING BY A MOMENT - THOMAS",
+      "title": "HANGING BY A MOMENT",
+      "artist": "THOMAS",
+      "bpm": {
+        "min": 135,
+        "max": 138
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/HANGING%20BY%20A%20MOMENT%20-%20THOMAS/HANGING%20BY%20A%20MOMENT%20-%20THOMAS.sm",
+          "noteCount": 107
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/HANGING%20BY%20A%20MOMENT%20-%20THOMAS/HANGING%20BY%20A%20MOMENT%20-%20THOMAS.sm",
+          "noteCount": 192
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/HANGING%20BY%20A%20MOMENT%20-%20THOMAS/HANGING%20BY%20A%20MOMENT%20-%20THOMAS.sm",
+          "noteCount": 250
+        },
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/HANGING%20BY%20A%20MOMENT%20-%20THOMAS/HANGING%20BY%20A%20MOMENT%20-%20THOMAS.sm",
+          "noteCount": 336
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/HANGING%20BY%20A%20MOMENT%20-%20THOMAS/HANGING%20BY%20A%20MOMENT%20-%20THOMAS.png",
+      "audioFile": "/charts/Mainstream%20Songs/HANGING%20BY%20A%20MOMENT%20-%20THOMAS/HANGING%20BY%20A%20MOMENT%20-%20THOMAS.mp3"
+    },
+    {
+      "id": "dancing-stage__HEAVEN AND EARTH",
+      "title": "HEAVEN AND EARTH",
+      "artist": "POP!",
+      "bpm": 130,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/HEAVEN%20AND%20EARTH/HEAVEN%20AND%20EARTH.sm",
+          "noteCount": 110
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/HEAVEN%20AND%20EARTH/HEAVEN%20AND%20EARTH.sm",
+          "noteCount": 156
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/HEAVEN%20AND%20EARTH/HEAVEN%20AND%20EARTH.sm",
+          "noteCount": 231
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/HEAVEN%20AND%20EARTH/HEAVEN%20AND%20EARTH.sm",
+          "noteCount": 310
+        }
+      ],
+      "banner": "/charts/dancing-stage/HEAVEN%20AND%20EARTH/HEAVEN%20AND%20EARTH-jacket.png",
+      "audioFile": "/charts/dancing-stage/HEAVEN%20AND%20EARTH/HEAVEN%20AND%20EARTH.ogg"
+    },
+    {
+      "id": "Mainstream Songs__helena",
+      "title": "HELENA",
+      "artist": "MY CHEMICAL ROMANCE",
+      "bpm": {
+        "min": 63,
+        "max": 252
+      },
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
+          "noteCount": 362
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
+          "noteCount": 484
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
+          "noteCount": 316
+        },
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
+          "noteCount": 95
+        },
+        {
+          "name": "Easy",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
+          "noteCount": 206
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/helena/helena.png",
+      "audioFile": "/charts/Mainstream%20Songs/helena/helena.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Hot & Sexy",
+      "title": "Hot & Sexy",
+      "artist": "Zara Larsson",
+      "bpm": 125,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Hot%20%26%20Sexy/Hot%20%26%20Sexy.sm",
+          "noteCount": 71
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Hot%20%26%20Sexy/Hot%20%26%20Sexy.sm",
+          "noteCount": 190
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Hot%20%26%20Sexy/Hot%20%26%20Sexy.sm",
+          "noteCount": 297
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Hot%20%26%20Sexy/Hot%20%26%20Sexy.sm",
+          "noteCount": 462
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Hot%20%26%20Sexy/Hot%20%26%20Sexy.sm",
+          "noteCount": 701
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Hot%20%26%20Sexy/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Hot%20%26%20Sexy/Hot%20%26%20Sexy.ogg"
+    },
+    {
+      "id": "Mainstream Songs__HYPERSPEED (g-force part 2)",
+      "title": "HYPERSPEED",
+      "artist": "THE PRODIGY",
+      "bpm": 150,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/HYPERSPEED%20(g-force%20part%202)/HYPERSPEED%20(g-force%20part%202).sm",
+          "noteCount": 121
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/HYPERSPEED%20(g-force%20part%202)/HYPERSPEED%20(g-force%20part%202).sm",
+          "noteCount": 212
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/HYPERSPEED%20(g-force%20part%202)/HYPERSPEED%20(g-force%20part%202).sm",
+          "noteCount": 256
+        },
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/HYPERSPEED%20(g-force%20part%202)/HYPERSPEED%20(g-force%20part%202).sm",
+          "noteCount": 418
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/HYPERSPEED%20(g-force%20part%202)/HYPERSPEED%20(g-force%20part%202).png",
+      "audioFile": "/charts/Mainstream%20Songs/HYPERSPEED%20(g-force%20part%202)/HYPERSPEED%20(g-force%20part%202).mp3"
+    },
+    {
+      "id": "dancing-stage__HYSTERIA 2001",
+      "title": "HYSTERIA 2001",
+      "artist": "NM",
+      "bpm": 190.15,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/HYSTERIA%202001/HYSTERIA%202001.sm",
+          "noteCount": 128
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/HYSTERIA%202001/HYSTERIA%202001.sm",
+          "noteCount": 177
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/HYSTERIA%202001/HYSTERIA%202001.sm",
+          "noteCount": 272
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/HYSTERIA%202001/HYSTERIA%202001.sm",
+          "noteCount": 333
+        }
+      ],
+      "banner": "/charts/dancing-stage/HYSTERIA%202001/HYSTERIA%202001-jacket.png",
+      "audioFile": "/charts/dancing-stage/HYSTERIA%202001/HYSTERIA%202001.ogg"
+    },
+    {
+      "id": "Mainstream Songs__I Leave The World Today (Video Mix)",
+      "title": "I Leave The World Today",
+      "artist": "Baracuda",
+      "bpm": 141.94,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/I%20Leave%20The%20World%20Today%20(Video%20Mix)/I%20Leave%20The%20World%20Today%20(Video%20Mix).sm",
+          "noteCount": 251
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/I%20Leave%20The%20World%20Today%20(Video%20Mix)/I%20Leave%20The%20World%20Today%20(Video%20Mix).sm",
+          "noteCount": 217
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/I%20Leave%20The%20World%20Today%20(Video%20Mix)/I%20Leave%20The%20World%20Today%20(Video%20Mix).sm",
+          "noteCount": 140
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/I%20Leave%20The%20World%20Today%20(Video%20Mix)/I%20Leave%20The%20World%20Today%20(Video%20Mix)-bn.png",
+      "audioFile": "/charts/Mainstream%20Songs/I%20Leave%20The%20World%20Today%20(Video%20Mix)/I%20Leave%20The%20World%20Today%20(Video%20Mix).mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__I Like Ur Look",
+      "title": "I Like Ur Look",
+      "artist": "Kim Petras",
+      "bpm": 134,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/I%20Like%20Ur%20Look/I%20Like%20Ur%20Look.sm",
+          "noteCount": 51
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/I%20Like%20Ur%20Look/I%20Like%20Ur%20Look.sm",
+          "noteCount": 147
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/I%20Like%20Ur%20Look/I%20Like%20Ur%20Look.sm",
+          "noteCount": 255
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/I%20Like%20Ur%20Look/I%20Like%20Ur%20Look.sm",
+          "noteCount": 315
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/I%20Like%20Ur%20Look/I%20Like%20Ur%20Look.sm",
+          "noteCount": 448
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/I%20Like%20Ur%20Look/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/I%20Like%20Ur%20Look/I%20Like%20Ur%20Look.ogg"
+    },
+    {
+      "id": "dancing-stage__I WANT YOU TO WANT ME",
+      "title": "I WANT YOU TO WANT ME",
+      "artist": "SOLID HARMONIE",
+      "bpm": 104,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/I%20WANT%20YOU%20TO%20WANT%20ME/I%20WANT%20YOU%20TO%20WANT%20ME.sm",
+          "noteCount": 56
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/I%20WANT%20YOU%20TO%20WANT%20ME/I%20WANT%20YOU%20TO%20WANT%20ME.sm",
+          "noteCount": 116
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/I%20WANT%20YOU%20TO%20WANT%20ME/I%20WANT%20YOU%20TO%20WANT%20ME.sm",
+          "noteCount": 168
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/I%20WANT%20YOU%20TO%20WANT%20ME/I%20WANT%20YOU%20TO%20WANT%20ME.sm",
+          "noteCount": 211
+        }
+      ],
+      "banner": "/charts/dancing-stage/I%20WANT%20YOU%20TO%20WANT%20ME/I%20WANT%20YOU%20TO%20WANT%20ME-jacket.png",
+      "audioFile": "/charts/dancing-stage/I%20WANT%20YOU%20TO%20WANT%20ME/I%20WANT%20YOU%20TO%20WANT%20ME.mp3"
+    },
+    {
+      "id": "dancing-stage__I Will Survive",
+      "title": "I Will Survive",
+      "artist": "Gloria Gaynor",
+      "bpm": 115.96,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/I%20Will%20Survive/I%20Will%20Survive.sm",
+          "noteCount": 57
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/I%20Will%20Survive/I%20Will%20Survive.sm",
+          "noteCount": 93
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/I%20Will%20Survive/I%20Will%20Survive.sm",
+          "noteCount": 150
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/I%20Will%20Survive/I%20Will%20Survive.sm",
+          "noteCount": 180
+        }
+      ],
+      "banner": "/charts/dancing-stage/I%20Will%20Survive/I%20Will%20Survive-jacket.png",
+      "audioFile": "/charts/dancing-stage/I%20Will%20Survive/I%20Will%20Survive.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Illegal",
+      "title": "Illegal",
+      "artist": "PinkPantheress",
+      "bpm": {
+        "min": 141,
+        "max": 150
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Illegal/Illegal.sm",
+          "noteCount": 50
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Illegal/Illegal.sm",
+          "noteCount": 121
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Illegal/Illegal.sm",
+          "noteCount": 262
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Illegal/Illegal.sm",
+          "noteCount": 297
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Illegal/Illegal.sm",
+          "noteCount": 453
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Illegal/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Illegal/Illegal.ogg"
+    },
+    {
+      "id": "Mainstream Songs__INCOMPLETE (The Factory Team Remix) - LAWRENCE",
+      "title": "INCOMPLETE",
+      "artist": "LAWRENCE",
+      "bpm": 140,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE.sm",
+          "noteCount": 101
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE.sm",
+          "noteCount": 131
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE.sm",
+          "noteCount": 205
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE.sm",
+          "noteCount": 292
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE.png",
+      "audioFile": "/charts/Mainstream%20Songs/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE/INCOMPLETE%20(The%20Factory%20Team%20Remix)%20-%20LAWRENCE.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Into The Night",
+      "title": "Into The Night",
+      "artist": "WALKMN",
+      "bpm": 136,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Into%20The%20Night/Into%20the%20Night.sm",
+          "noteCount": 79
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Into%20The%20Night/Into%20the%20Night.sm",
+          "noteCount": 175
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Into%20The%20Night/Into%20the%20Night.sm",
+          "noteCount": 293
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Into%20The%20Night/Into%20the%20Night.sm",
+          "noteCount": 420
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Into%20The%20Night/Into%20the%20Night.sm",
+          "noteCount": 617
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Into%20The%20Night/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Into%20The%20Night/Into%20the%20Night.ogg"
+    },
+    {
+      "id": "dancing-stage__It's Like That",
+      "title": "It's Like That",
+      "artist": "RUN DMC vs. JASON NEVINS",
+      "bpm": 129.278,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/It's%20Like%20That/It's%20Like%20That.sm",
+          "noteCount": 146
+        },
+        {
+          "name": "Medium",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/It's%20Like%20That/It's%20Like%20That.sm",
+          "noteCount": 190
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/It's%20Like%20That/It's%20Like%20That.sm",
+          "noteCount": 221
+        }
+      ],
+      "banner": "/charts/dancing-stage/It's%20Like%20That/It's%20Like%20That-jacket.png",
+      "audioFile": "/charts/dancing-stage/It's%20Like%20That/It's%20Like%20That.ogg"
+    },
+    {
+      "id": "Mainstream Songs__jng",
+      "title": "Jets'n'Guns main theme",
+      "artist": "Machinae Supremacy",
+      "bpm": {
+        "min": 150,
+        "max": 300
+      },
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/jng/jng.sm",
+          "noteCount": 301
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/jng/jng.sm",
+          "noteCount": 196
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/jng/jng.sm",
+          "noteCount": 120
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/jng/jng.png",
+      "audioFile": "/charts/Mainstream%20Songs/jng/jng.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Jump",
+      "title": "JUMP",
+      "artist": "BLACKPINK",
+      "bpm": 145,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Jump/Jump.sm",
+          "noteCount": 43
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Jump/Jump.sm",
+          "noteCount": 136
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Jump/Jump.sm",
+          "noteCount": 268
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Jump/Jump.sm",
+          "noteCount": 328
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Jump/Jump.sm",
+          "noteCount": 561
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Jump/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Jump/Jump.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Kaistaa",
+      "title": "Kaistaa",
+      "artist": "BESS & Käärijä",
+      "bpm": {
+        "min": 144,
+        "max": 151
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Kaistaa/Kaistaa.sm",
+          "noteCount": 68
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Kaistaa/Kaistaa.sm",
+          "noteCount": 197
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Kaistaa/Kaistaa.sm",
+          "noteCount": 286
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Kaistaa/Kaistaa.sm",
+          "noteCount": 386
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Kaistaa/Kaistaa.sm",
+          "noteCount": 547
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Kaistaa/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Kaistaa/Kaistaa.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__KANT",
+      "title": "KANT",
+      "artist": "Mariana Conte",
+      "bpm": {
+        "min": 61,
+        "max": 122
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/KANT/KANT.sm",
+          "noteCount": 59
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/KANT/KANT.sm",
+          "noteCount": 123
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/KANT/KANT.sm",
+          "noteCount": 220
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/KANT/KANT.sm",
+          "noteCount": 310
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/KANT/KANT.sm",
+          "noteCount": 502
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/KANT/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/KANT/KANT.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__KANT (Serving)",
+      "title": "KANT",
+      "artist": "Mariana Conte",
+      "bpm": {
+        "min": 61,
+        "max": 122
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/KANT%20(Serving)/KANT%20(Serving).sm",
+          "noteCount": 59
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/KANT%20(Serving)/KANT%20(Serving).sm",
+          "noteCount": 123
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/KANT%20(Serving)/KANT%20(Serving).sm",
+          "noteCount": 220
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/KANT%20(Serving)/KANT%20(Serving).sm",
+          "noteCount": 310
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/KANT%20(Serving)/KANT%20(Serving).sm",
+          "noteCount": 502
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/KANT%20(Serving)/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/KANT%20(Serving)/KANT%20(Serving).ogg"
+    },
+    {
+      "id": "dancing-stage__Kids In America",
+      "title": "Kids in America",
+      "artist": "KIM WILDE",
+      "bpm": {
+        "min": 159,
+        "max": 160
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Kids%20In%20America/Kids%20In%20America.sm",
+          "noteCount": 105
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/Kids%20In%20America/Kids%20In%20America.sm",
+          "noteCount": 170
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/Kids%20In%20America/Kids%20In%20America.sm",
+          "noteCount": 260
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Kids%20In%20America/Kids%20In%20America.sm",
+          "noteCount": 347
+        }
+      ],
+      "banner": "/charts/dancing-stage/Kids%20In%20America/Kids%20In%20America-jacket.png",
+      "audioFile": "/charts/dancing-stage/Kids%20In%20America/Kids%20In%20America.ogg"
+    },
+    {
+      "id": "Mainstream Songs__kiss",
+      "title": "Kiss Me",
+      "artist": "Jewel VS Sixpence",
+      "bpm": {
+        "min": 100,
+        "max": 206
+      },
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/kiss/kiss.sm",
+          "noteCount": 169
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/kiss/kiss.sm",
+          "noteCount": 257
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/kiss/kiss.sm",
+          "noteCount": 418
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/kiss/kiss.png",
+      "audioFile": "/charts/Mainstream%20Songs/kiss/Kiss%20Me.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Kunst und Musik",
+      "title": "Kunst und Musik",
+      "artist": "Joost",
+      "bpm": {
+        "min": 154,
+        "max": 172
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Kunst%20und%20Musik/Kunst%20und%20Musik.sm",
+          "noteCount": 90
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Kunst%20und%20Musik/Kunst%20und%20Musik.sm",
+          "noteCount": 207
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Kunst%20und%20Musik/Kunst%20und%20Musik.sm",
+          "noteCount": 362
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Kunst%20und%20Musik/Kunst%20und%20Musik.sm",
+          "noteCount": 473
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Kunst%20und%20Musik/Kunst%20und%20Musik.sm",
+          "noteCount": 715
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Kunst%20und%20Musik/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Kunst%20und%20Musik/Kunst%20und%20Musik.ogg"
+    },
+    {
+      "id": "dancing-stage__LADIES' NIGHT",
+      "title": "LADIES' NIGHT",
+      "artist": "∠R",
+      "bpm": 120,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/LADIES'%20NIGHT/LADIES'%20NIGHT.sm",
+          "noteCount": 95
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/LADIES'%20NIGHT/LADIES'%20NIGHT.sm",
+          "noteCount": 146
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/LADIES'%20NIGHT/LADIES'%20NIGHT.sm",
+          "noteCount": 217
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/LADIES'%20NIGHT/LADIES'%20NIGHT.sm",
+          "noteCount": 303
+        }
+      ],
+      "banner": "/charts/dancing-stage/LADIES'%20NIGHT/LADIES'%20NIGHT-jacket.png",
+      "audioFile": "/charts/dancing-stage/LADIES'%20NIGHT/LADIES'%20NIGHT.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Laika Party",
+      "title": "Laika Party",
+      "artist": "EMMY",
+      "bpm": 132,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Laika%20Party/Laika%20Party.sm",
+          "noteCount": 53
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Laika%20Party/Laika%20Party.sm",
+          "noteCount": 107
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Laika%20Party/Laika%20Party.sm",
+          "noteCount": 166
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Laika%20Party/Laika%20Party.sm",
+          "noteCount": 338
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Laika%20Party/Laika%20Party.sm",
+          "noteCount": 411
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Laika%20Party/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Laika%20Party/Laika%20Party.ogg"
+    },
+    {
+      "id": "dancing-stage__Last Thing On My Mind",
+      "title": "Last Thing On My Mind",
+      "artist": "STEPS",
+      "bpm": 131.994,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/Last%20Thing%20On%20My%20Mind/Last%20Thing%20On%20My%20Mind.sm",
+          "noteCount": 137
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Last%20Thing%20On%20My%20Mind/Last%20Thing%20On%20My%20Mind.sm",
+          "noteCount": 204
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Last%20Thing%20On%20My%20Mind/Last%20Thing%20On%20My%20Mind.sm",
+          "noteCount": 274
+        }
+      ],
+      "banner": "/charts/dancing-stage/Last%20Thing%20On%20My%20Mind/Last%20Thing%20On%20My%20Mind-jacket.png",
+      "audioFile": "/charts/dancing-stage/Last%20Thing%20On%20My%20Mind/Last%20Thing%20On%20My%20Mind.ogg"
+    },
+    {
+      "id": "Mainstream Songs__Let's Get It Started",
+      "title": "Let's Get It Started",
+      "artist": "The Black Eyed Peas",
+      "bpm": 105,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/Let's%20Get%20It%20Started/Let's%20Get%20It%20Started.sm",
+          "noteCount": 76
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/Let's%20Get%20It%20Started/Let's%20Get%20It%20Started.sm",
+          "noteCount": 137
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/Let's%20Get%20It%20Started/Let's%20Get%20It%20Started.sm",
+          "noteCount": 220
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/Let's%20Get%20It%20Started/Let's%20Get%20It%20Started.sm",
+          "noteCount": 259
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Let's%20Get%20It%20Started/Let's%20Get%20It%20Started%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/Let's%20Get%20It%20Started/Let's%20Get%20It%20Started.mp3"
+    },
+    {
+      "id": "dancing-stage__Like A Virgin",
+      "title": "Like A Virgin",
+      "artist": "tama_happytone",
+      "bpm": 126,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Like%20A%20Virgin/Like%20A%20Virgin.sm",
+          "noteCount": 113
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/Like%20A%20Virgin/Like%20A%20Virgin.sm",
+          "noteCount": 126
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Like%20A%20Virgin/Like%20A%20Virgin.sm",
+          "noteCount": 222
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/dancing-stage/Like%20A%20Virgin/Like%20A%20Virgin.sm",
+          "noteCount": 347
+        }
+      ],
+      "banner": "/charts/dancing-stage/Like%20A%20Virgin/Like%20A%20Virgin-jacket.png",
+      "audioFile": "/charts/dancing-stage/Like%20A%20Virgin/Like%20A%20Virgin.ogg"
+    },
+    {
+      "id": "dancing-stage__LOVE YOU LIKE A FOOL",
+      "title": "LOVE YOU LIKE A FOOL",
+      "artist": "JESSICA FOLKER",
+      "bpm": 183.34,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/LOVE%20YOU%20LIKE%20A%20FOOL/LOVE%20YOU%20LIKE%20A%20FOOL.sm",
+          "noteCount": 89
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/LOVE%20YOU%20LIKE%20A%20FOOL/LOVE%20YOU%20LIKE%20A%20FOOL.sm",
+          "noteCount": 178
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/LOVE%20YOU%20LIKE%20A%20FOOL/LOVE%20YOU%20LIKE%20A%20FOOL.sm",
+          "noteCount": 169
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/LOVE%20YOU%20LIKE%20A%20FOOL/LOVE%20YOU%20LIKE%20A%20FOOL.sm",
+          "noteCount": 307
+        }
+      ],
+      "banner": "/charts/dancing-stage/LOVE%20YOU%20LIKE%20A%20FOOL/LOVE%20YOU%20LIKE%20A%20FOOL-jacket.png",
+      "audioFile": "/charts/dancing-stage/LOVE%20YOU%20LIKE%20A%20FOOL/LOVE%20YOU%20LIKE%20A%20FOOL.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Luv U More",
+      "title": "Luv U More",
+      "artist": "Scooter, Paul Elstak, Joost",
+      "bpm": {
+        "min": 84,
+        "max": 168
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Luv%20U%20More/Luv%20U%20More.sm",
+          "noteCount": 57
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Luv%20U%20More/Luv%20U%20More.sm",
+          "noteCount": 210
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Luv%20U%20More/Luv%20U%20More.sm",
+          "noteCount": 310
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Luv%20U%20More/Luv%20U%20More.sm",
+          "noteCount": 471
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Luv%20U%20More/Luv%20U%20More.sm",
+          "noteCount": 593
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Luv%20U%20More/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Luv%20U%20More/Luv%20U%20More.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Made Of",
+      "title": "Made Of",
+      "artist": "Goldilocks",
+      "bpm": 108,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Made%20Of/Made%20Of.sm",
+          "noteCount": 38
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Made%20Of/Made%20Of.sm",
+          "noteCount": 79
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Made%20Of/Made%20Of.sm",
+          "noteCount": 162
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Made%20Of/Made%20Of.sm",
+          "noteCount": 262
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Made%20Of/Made%20Of.sm",
+          "noteCount": 395
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Made%20Of/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Made%20Of/Made%20Of.ogg"
+    },
+    {
+      "id": "dancing-stage__Magic Alec Presents Resonance",
+      "title": "Magic Alec Presents Resonance",
+      "artist": "Magic Alec",
+      "bpm": 140.105,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Magic%20Alec%20Presents%20Resonance/Magic%20Alec%20Presents%20Resonance.sm",
+          "noteCount": 102
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/Magic%20Alec%20Presents%20Resonance/Magic%20Alec%20Presents%20Resonance.sm",
+          "noteCount": 206
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/Magic%20Alec%20Presents%20Resonance/Magic%20Alec%20Presents%20Resonance.sm",
+          "noteCount": 236
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Magic%20Alec%20Presents%20Resonance/Magic%20Alec%20Presents%20Resonance.sm",
+          "noteCount": 326
+        }
+      ],
+      "banner": "/charts/dancing-stage/Magic%20Alec%20Presents%20Resonance/Magic%20Alec%20Presents%20Resonance-jacket.png",
+      "audioFile": "/charts/dancing-stage/Magic%20Alec%20Presents%20Resonance/Magic%20Alec%20Presents%20Resonance.ogg"
+    },
+    {
+      "id": "Mainstream Songs__Mambo No.5",
+      "title": "Mambo Number 5",
+      "artist": "Lou Bega",
+      "bpm": 174.12,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/Mambo%20No.5/mambono5.sm",
+          "noteCount": 238
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/Mambo%20No.5/mambono5.sm",
+          "noteCount": 360
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/Mambo%20No.5/mambono5.sm",
+          "noteCount": 516
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/Mambo%20No.5/mambono5.sm",
+          "noteCount": 569
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Mambo%20No.5/Mambo%20Number%205.png",
+      "audioFile": "/charts/Mainstream%20Songs/Mambo%20No.5/Lou%20Bega%20-%20Mambo%20No.5.mp3"
+    },
+    {
+      "id": "mecha-tribe-assault",
+      "title": "Mecha-Tribe Assault",
+      "artist": "Kommisar",
+      "bpm": 180,
+      "difficulties": [
+        {
+          "name": "Challenge",
+          "level": 11,
+          "chartPath": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ssc",
+          "noteCount": 766
+        },
+        {
+          "name": "Hard",
+          "level": 10,
+          "chartPath": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ssc",
+          "noteCount": 544
+        },
+        {
+          "name": "Medium",
+          "level": 8,
+          "chartPath": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ssc",
+          "noteCount": 395
+        },
+        {
+          "name": "Easy",
+          "level": 6,
+          "chartPath": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ssc",
+          "noteCount": 304
+        },
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ssc",
+          "noteCount": 179
+        }
+      ],
+      "banner": "/charts/mecha-tribe-assault/mechatribeassaultbn.png",
+      "audioFile": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Meri Jaan",
+      "title": "Meri Jaan",
+      "artist": "Meira Omar",
+      "bpm": 109,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Meri%20Jaan/Meri%20Jaan.sm",
+          "noteCount": 52
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Meri%20Jaan/Meri%20Jaan.sm",
+          "noteCount": 92
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Meri%20Jaan/Meri%20Jaan.sm",
+          "noteCount": 220
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Meri%20Jaan/Meri%20Jaan.sm",
+          "noteCount": 288
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Meri%20Jaan/Meri%20Jaan.sm",
+          "noteCount": 450
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Meri%20Jaan/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Meri%20Jaan/Meri%20Jaan.ogg"
+    },
+    {
+      "id": "dancing-stage__Mickey",
+      "title": "Mickey",
+      "artist": "Toni Basil",
+      "bpm": {
+        "min": 147,
+        "max": 152
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Mickey/Mickey.sm",
+          "noteCount": 120
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/Mickey/Mickey.sm",
+          "noteCount": 169
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/Mickey/Mickey.sm",
+          "noteCount": 274
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Mickey/Mickey.sm",
+          "noteCount": 333
+        }
+      ],
+      "banner": "/charts/dancing-stage/Mickey/Mickey-jacket.png",
+      "audioFile": "/charts/dancing-stage/Mickey/Mickey.ogg"
+    },
+    {
+      "id": "Mainstream Songs__milkshake (extended cut)",
+      "title": "milkshake",
+      "artist": "D-Tune",
+      "bpm": 139.97,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/milkshake%20(extended%20cut)/milkshake%20(extended%20cut).sm",
+          "noteCount": 182
+        },
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/milkshake%20(extended%20cut)/milkshake%20(extended%20cut).sm",
+          "noteCount": 457
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/milkshake%20(extended%20cut)/milkshake%20(extended%20cut).sm",
+          "noteCount": 313
+        },
+        {
+          "name": "Challenge",
+          "level": 11,
+          "chartPath": "/charts/Mainstream%20Songs/milkshake%20(extended%20cut)/milkshake%20(extended%20cut).sm",
+          "noteCount": 650
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/milkshake%20(extended%20cut)/milkshake%20(extended%20cut)%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/milkshake%20(extended%20cut)/milkshake%20(extended%20cut).mp3"
+    },
+    {
+      "id": "dancing-stage__More Than This '99",
+      "title": "More Than This '99",
+      "artist": "Emmie",
+      "bpm": 125.02,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/More%20Than%20This%20'99/More%20Than%20This%20'99.sm",
+          "noteCount": 95
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/More%20Than%20This%20'99/More%20Than%20This%20'99.sm",
+          "noteCount": 146
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/More%20Than%20This%20'99/More%20Than%20This%20'99.sm",
+          "noteCount": 217
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/More%20Than%20This%20'99/More%20Than%20This%20'99.sm",
+          "noteCount": 243
+        }
+      ],
+      "banner": "/charts/dancing-stage/More%20Than%20This%20'99/More%20Than%20This%20'99-jacket.png",
+      "audioFile": "/charts/dancing-stage/More%20Than%20This%20'99/More%20Than%20This%20'99.ogg"
+    },
+    {
+      "id": "dancing-stage__Move Your Feet",
+      "title": "Move Your Feet",
+      "artist": "Junior Senior",
+      "bpm": 118.84,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Move%20Your%20Feet/Move%20Your%20Feet.sm",
+          "noteCount": 76
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/Move%20Your%20Feet/Move%20Your%20Feet.sm",
+          "noteCount": 124
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Move%20Your%20Feet/Move%20Your%20Feet.sm",
+          "noteCount": 184
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Move%20Your%20Feet/Move%20Your%20Feet.sm",
+          "noteCount": 257
+        }
+      ],
+      "banner": "/charts/dancing-stage/Move%20Your%20Feet/Move%20Your%20Feet-jacket.png",
+      "audioFile": "/charts/dancing-stage/Move%20Your%20Feet/Move%20Your%20Feet.ogg"
+    },
+    {
+      "id": "Mainstream Songs__Ojos Asi",
+      "title": "Ojos Asi",
+      "artist": "Shakira",
+      "bpm": 126.98,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/Ojos%20Asi/Ojos%20Asi.sm",
+          "noteCount": 320
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/Ojos%20Asi/Ojos%20Asi.sm",
+          "noteCount": 253
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/Ojos%20Asi/Ojos%20Asi.sm",
+          "noteCount": 185
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Ojos%20Asi/Ojos%20Asi.png",
+      "audioFile": "/charts/Mainstream%20Songs/Ojos%20Asi/Ojos%20Asi.mp3"
+    },
+    {
+      "id": "Mainstream Songs__ONE MORE TIME",
+      "title": "ONE MORE TIME",
+      "artist": "REAL McCOY",
+      "bpm": 133.083,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/ONE%20MORE%20TIME/ONE%20MORE%20TIME.sm",
+          "noteCount": 302
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/ONE%20MORE%20TIME/ONE%20MORE%20TIME.sm",
+          "noteCount": 204
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/ONE%20MORE%20TIME/ONE%20MORE%20TIME.sm",
+          "noteCount": 163
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/ONE%20MORE%20TIME/ONE%20MORE%20TIME.sm",
+          "noteCount": 90
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/ONE%20MORE%20TIME/ONE%20MORE%20TIME.png",
+      "audioFile": "/charts/Mainstream%20Songs/ONE%20MORE%20TIME/ONE%20MORE%20TIME.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Panta King",
+      "title": "Panta King",
+      "artist": "E-Type",
+      "bpm": 142,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Panta%20King/Panta%20King.sm",
+          "noteCount": 43
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Panta%20King/Panta%20King.sm",
+          "noteCount": 118
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Panta%20King/Panta%20King.sm",
+          "noteCount": 226
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Panta%20King/Panta%20King.sm",
+          "noteCount": 302
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Panta%20King/Panta%20King.sm",
+          "noteCount": 460
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Panta%20King/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Panta%20King/Panta%20King.ogg"
+    },
+    {
+      "id": "dancing-stage__PARANOiA KCET ~clean mix~",
+      "title": "PARANOiA KCET ～clean mix～",
+      "artist": "2MB",
+      "bpm": {
+        "min": 179,
+        "max": 180
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/PARANOiA%20KCET%20~clean%20mix~/PARANOiA%20KCET%20~clean%20mix~.sm",
+          "noteCount": 124
+        },
+        {
+          "name": "Easy",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/PARANOiA%20KCET%20~clean%20mix~/PARANOiA%20KCET%20~clean%20mix~.sm",
+          "noteCount": 315
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/PARANOiA%20KCET%20~clean%20mix~/PARANOiA%20KCET%20~clean%20mix~.sm",
+          "noteCount": 338
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/dancing-stage/PARANOiA%20KCET%20~clean%20mix~/PARANOiA%20KCET%20~clean%20mix~.sm",
+          "noteCount": 378
+        }
+      ],
+      "banner": "/charts/dancing-stage/PARANOiA%20KCET%20~clean%20mix~/PARANOiA%20KCET%20~clean%20mix~-jacket.png",
+      "audioFile": "/charts/dancing-stage/PARANOiA%20KCET%20~clean%20mix~/PARANOiA%20KCET%20~clean%20mix~.ogg"
+    },
+    {
+      "id": "Mainstream Songs__poison",
+      "title": "Poison",
+      "artist": "Groove Coverage",
+      "bpm": {
+        "min": 67,
+        "max": 135
+      },
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/poison/poison.sm",
+          "noteCount": 150
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/poison/poison.sm",
+          "noteCount": 217
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/poison/poison.sm",
+          "noteCount": 245
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/poison/poison.sm",
+          "noteCount": 53
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/poison/POISON%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/poison/poison.mp3"
+    },
+    {
+      "id": "Mainstream Songs__punk",
+      "title": "PUNK",
+      "artist": "JESSICA FOLKER",
+      "bpm": 105.06,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/Mainstream%20Songs/punk/punk.sm",
+          "noteCount": 95
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/punk/punk.sm",
+          "noteCount": 150
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/punk/punk.sm",
+          "noteCount": 210
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/punk/punk.sm",
+          "noteCount": 270
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/punk/PUNK%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/punk/punk.mp3"
+    },
+    {
+      "id": "Mainstream Songs__Quem Sabe",
+      "title": "Quem Sabe",
+      "artist": "Los Hermanos",
+      "bpm": {
+        "min": 96,
+        "max": 198
+      },
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/Quem%20Sabe/Quem%20Sabe.sm",
+          "noteCount": 389
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/Quem%20Sabe/Quem%20Sabe.sm",
+          "noteCount": 315
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/Quem%20Sabe/Quem%20Sabe.sm",
+          "noteCount": 183
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Quem%20Sabe/Quem%20Sabe.png",
+      "audioFile": "/charts/Mainstream%20Songs/Quem%20Sabe/Quem%20Sabe.mp3"
+    },
+    {
+      "id": "dancing-stage__Rappers Delight",
+      "title": "Rappers Delight",
+      "artist": "Sugarhill Gang",
+      "bpm": {
+        "min": 110,
+        "max": 112
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Rappers%20Delight/Rappers%20Delight.sm",
+          "noteCount": 105
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/Rappers%20Delight/Rappers%20Delight.sm",
+          "noteCount": 119
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Rappers%20Delight/Rappers%20Delight.sm",
+          "noteCount": 191
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Rappers%20Delight/Rappers%20Delight.sm",
+          "noteCount": 305
+        }
+      ],
+      "banner": "/charts/dancing-stage/Rappers%20Delight/Rappers%20Delight-jacket.png",
+      "audioFile": "/charts/dancing-stage/Rappers%20Delight/Rappers%20Delight.ogg"
+    },
+    {
+      "id": "Mainstream Songs__rewind",
+      "title": "REWIND",
+      "artist": "precious...",
+      "bpm": 93.14,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/rewind/rewind.sm",
+          "noteCount": 123
+        },
+        {
+          "name": "Medium",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/rewind/rewind.sm",
+          "noteCount": 178
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/rewind/rewind.sm",
+          "noteCount": 211
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/rewind/rewind.sm",
+          "noteCount": 58
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/rewind/REWIND-bn.png",
+      "audioFile": "/charts/Mainstream%20Songs/rewind/rewind.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__ROA",
+      "title": "RÓA",
+      "artist": "VAEB",
+      "bpm": 140,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/ROA/ROA.sm",
+          "noteCount": 77
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/ROA/ROA.sm",
+          "noteCount": 153
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/ROA/ROA.sm",
+          "noteCount": 292
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/ROA/ROA.sm",
+          "noteCount": 412
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/ROA/ROA.sm",
+          "noteCount": 612
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/ROA/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/ROA/ROA.ogg"
+    },
+    {
+      "id": "Mainstream Songs__ROKING SUN (Delaction Remix)",
+      "title": "ROKING SUN",
+      "artist": "KHUBILAI KHAN",
+      "bpm": 143,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/ROKING%20SUN%20(Delaction%20Remix)/ROKING%20SUN%20(Delaction%20Remix).sm",
+          "noteCount": 423
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/ROKING%20SUN%20(Delaction%20Remix)/ROKING%20SUN%20(Delaction%20Remix).sm",
+          "noteCount": 356
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/ROKING%20SUN%20(Delaction%20Remix)/ROKING%20SUN%20(Delaction%20Remix).sm",
+          "noteCount": 212
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/ROKING%20SUN%20(Delaction%20Remix)/ROKING%20SUN%20(Delaction%20Remix).png",
+      "audioFile": "/charts/Mainstream%20Songs/ROKING%20SUN%20(Delaction%20Remix)/ROKING%20SUN%20(Delaction%20Remix).ogg"
+    },
+    {
+      "id": "Mainstream Songs__Roses are red",
+      "title": "Roses are red",
+      "artist": "aQua",
+      "bpm": {
+        "min": 140,
+        "max": 140
+      },
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/Roses%20are%20red/Roses%20are%20red.sm",
+          "noteCount": 324
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/Roses%20are%20red/Roses%20are%20red.sm",
+          "noteCount": 226
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/Roses%20are%20red/Roses%20are%20red.sm",
+          "noteCount": 138
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Roses%20are%20red/Roses%20are%20red-BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/Roses%20are%20red/Roses%20are%20red.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Runaway",
+      "title": "Runaway",
+      "artist": "Alfons & Swizznife",
+      "bpm": 155,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Runaway/Runaway.sm",
+          "noteCount": 71
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Runaway/Runaway.sm",
+          "noteCount": 185
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Runaway/Runaway.sm",
+          "noteCount": 284
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Runaway/Runaway.sm",
+          "noteCount": 440
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Runaway/Runaway.sm",
+          "noteCount": 586
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Runaway/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Runaway/Runaway.ogg"
+    },
+    {
+      "id": "dancing-stage__Rushing",
+      "title": "Rushing",
+      "artist": "Loni Clark",
+      "bpm": 122.985,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Rushing/Rushing.sm",
+          "noteCount": 99
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/Rushing/Rushing.sm",
+          "noteCount": 197
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Rushing/Rushing.sm",
+          "noteCount": 237
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Rushing/Rushing.sm",
+          "noteCount": 278
+        }
+      ],
+      "banner": "/charts/dancing-stage/Rushing/Rushing-jacket.png",
+      "audioFile": "/charts/dancing-stage/Rushing/Rushing.ogg"
+    },
+    {
+      "id": "Mainstream Songs__SAY IT RIGHT (Delaction Remix)",
+      "title": "SAY IT RIGHT",
+      "artist": "NELLY FURTADO",
+      "bpm": 143,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/SAY%20IT%20RIGHT%20(Delaction%20Remix)/SAY%20IT%20RIGHT%20(Delaction%20Remix).sm",
+          "noteCount": 336
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/SAY%20IT%20RIGHT%20(Delaction%20Remix)/SAY%20IT%20RIGHT%20(Delaction%20Remix).sm",
+          "noteCount": 140
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/SAY%20IT%20RIGHT%20(Delaction%20Remix)/SAY%20IT%20RIGHT%20(Delaction%20Remix).sm",
+          "noteCount": 239
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/SAY%20IT%20RIGHT%20(Delaction%20Remix)/SAY%20IT%20RIGHT%20(Delaction%20Remix).png",
+      "audioFile": "/charts/Mainstream%20Songs/SAY%20IT%20RIGHT%20(Delaction%20Remix)/SAY%20IT%20RIGHT%20(Delaction%20Remix)%20-%20NELLY%20FURTADO.mp3"
+    },
+    {
+      "id": "Mainstream Songs__SELF ESTEEM (Skazi and Irritante Remix)",
+      "title": "SELF ESTEEM",
+      "artist": "THE OFFSPRING",
+      "bpm": 141.997,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix)/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix).sm",
+          "noteCount": 364
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix)/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix).sm",
+          "noteCount": 159
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix)/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix).sm",
+          "noteCount": 264
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix)/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix).png",
+      "audioFile": "/charts/Mainstream%20Songs/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix)/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix).mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Shh",
+      "title": "Shh",
+      "artist": "Theo Evan",
+      "bpm": 142,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Shh/Shh.sm",
+          "noteCount": 51
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Shh/Shh.sm",
+          "noteCount": 158
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Shh/Shh.sm",
+          "noteCount": 270
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Shh/Shh.sm",
+          "noteCount": 355
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Shh/Shh.sm",
+          "noteCount": 481
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Shh/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Shh/Shh.ogg"
+    },
+    {
+      "id": "Mainstream Songs__sidology3",
+      "title": "Sidology Episode 3",
+      "artist": "Machinae Supremacy",
+      "bpm": {
+        "min": 164,
+        "max": 170
+      },
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/sidology3/sidology3.sm",
+          "noteCount": 1777
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/sidology3/sidology3.sm",
+          "noteCount": 1265
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/sidology3/sidology3.sm",
+          "noteCount": 730
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/sidology3/sidology3.png",
+      "audioFile": "/charts/Mainstream%20Songs/sidology3/sidology3.mp3"
+    },
+    {
+      "id": "Mainstream Songs__SINCE U BEEN GONE - Kelly Clarkson",
+      "title": "SINCE U BEEN GONE",
+      "artist": "Kelly Clarkson",
+      "bpm": 131,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson.sm",
+          "noteCount": 121
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson.sm",
+          "noteCount": 181
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson.sm",
+          "noteCount": 283
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson.sm",
+          "noteCount": 383
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson.png",
+      "audioFile": "/charts/Mainstream%20Songs/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson/SINCE%20U%20BEEN%20GONE%20-%20Kelly%20Clarkson.mp3"
+    },
+    {
+      "id": "Mainstream Songs__Smells Like Teen Spirit",
+      "title": "Smells Like Teen Spirit",
+      "artist": "Warp Brothers",
+      "bpm": 132.99,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/Smells%20Like%20Teen%20Spirit/Smells%20Like%20Teen%20Spirit.sm",
+          "noteCount": 326
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/Smells%20Like%20Teen%20Spirit/Smells%20Like%20Teen%20Spirit.sm",
+          "noteCount": 237
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/Smells%20Like%20Teen%20Spirit/Smells%20Like%20Teen%20Spirit.sm",
+          "noteCount": 146
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Smells%20Like%20Teen%20Spirit/Smells%20Like%20Teen%20Spirit%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/Smells%20Like%20Teen%20Spirit/Smells%20Like%20Teen%20Spirit.mp3"
+    },
+    {
+      "id": "dancing-stage__So Good",
+      "title": "So Good",
+      "artist": "Boyzone",
+      "bpm": {
+        "min": 106,
+        "max": 106
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/So%20Good/So%20Good.sm",
+          "noteCount": 89
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/So%20Good/So%20Good.sm",
+          "noteCount": 134
+        },
+        {
+          "name": "Medium",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/So%20Good/So%20Good.sm",
+          "noteCount": 176
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/So%20Good/So%20Good.sm",
+          "noteCount": 203
+        }
+      ],
+      "banner": "/charts/dancing-stage/So%20Good/So%20Good-jacket.png",
+      "audioFile": "/charts/dancing-stage/So%20Good/So%20Good.ogg"
+    },
+    {
+      "id": "Mainstream Songs__Somebody Told Me",
+      "title": "SOMEBODY TOLD ME",
+      "artist": "The KILLERS",
+      "bpm": 133.955,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/Somebody%20Told%20Me/SOMEBODY%20TOLD%20ME.sm",
+          "noteCount": 106
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/Somebody%20Told%20Me/SOMEBODY%20TOLD%20ME.sm",
+          "noteCount": 254
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/Somebody%20Told%20Me/SOMEBODY%20TOLD%20ME.sm",
+          "noteCount": 140
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/Somebody%20Told%20Me/SOMEBODY%20TOLD%20ME.sm",
+          "noteCount": 411
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Somebody%20Told%20Me/SOMEBODY%20TOLD%20ME%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/Somebody%20Told%20Me/SOMEBODY%20TOLD%20ME.mp3"
+    },
+    {
+      "id": "Mainstream Songs__SPEED OF SOUND (ALMIGHTY ANTHEM MIX) - TRACEY COLE",
+      "title": "SPEED OF SOUND",
+      "artist": "TRACEY COLE",
+      "bpm": 132,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE.sm",
+          "noteCount": 99
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE.sm",
+          "noteCount": 140
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE.sm",
+          "noteCount": 212
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE.sm",
+          "noteCount": 285
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/Mainstream%20Songs/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE.sm",
+          "noteCount": 522
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE/SPEED%20OF%20SOUND%20(ALMIGHTY%20ANTHEM%20MIX)%20-%20TRACEY%20COLE.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Sports Car",
+      "title": "Sports Car",
+      "artist": "Tate McRae",
+      "bpm": 107,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Sports%20Car/Sports%20Car.sm",
+          "noteCount": 45
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Sports%20Car/Sports%20Car.sm",
+          "noteCount": 85
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Sports%20Car/Sports%20Car.sm",
+          "noteCount": 175
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Sports%20Car/Sports%20Car.sm",
+          "noteCount": 242
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Sports%20Car/Sports%20Car.sm",
+          "noteCount": 347
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Sports%20Car/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Sports%20Car/Sports%20Car.ogg"
+    },
+    {
+      "id": "Mainstream Songs__Stacy's Mom",
+      "title": "Stacy's Mom",
+      "artist": "Fountains Of Wayne",
+      "bpm": 117.99,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/Stacy's%20Mom/stacy's%20mom.sm",
+          "noteCount": 53
+        },
+        {
+          "name": "Medium",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/Stacy's%20Mom/stacy's%20mom.sm",
+          "noteCount": 132
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/Stacy's%20Mom/stacy's%20mom.sm",
+          "noteCount": 286
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/Stacy's%20Mom/mom%20-%20banner.png",
+      "audioFile": "/charts/Mainstream%20Songs/Stacy's%20Mom/stacy's%20mom.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Stereo",
+      "title": "Stereo",
+      "artist": "Jax Jones & Emei",
+      "bpm": 140,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Stereo/Stereo.sm",
+          "noteCount": 46
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Stereo/Stereo.sm",
+          "noteCount": 112
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Stereo/Stereo.sm",
+          "noteCount": 199
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Stereo/Stereo.sm",
+          "noteCount": 247
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Stereo/Stereo.sm",
+          "noteCount": 439
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Stereo/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Stereo/Stereo.ogg"
+    },
+    {
+      "id": "dancing-stage__STOMP",
+      "title": "STOMP",
+      "artist": "STEPS",
+      "bpm": 130.02,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/STOMP/STOMP.sm",
+          "noteCount": 83
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/STOMP/STOMP.sm",
+          "noteCount": 141
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/STOMP/STOMP.sm",
+          "noteCount": 214
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/STOMP/STOMP.sm",
+          "noteCount": 275
+        }
+      ],
+      "banner": "/charts/dancing-stage/STOMP/STOMP-jacket.png",
+      "audioFile": "/charts/dancing-stage/STOMP/STOMP.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Strategy",
+      "title": "Strategy",
+      "artist": "TWICE",
+      "bpm": 110,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Strategy/Strategy.sm",
+          "noteCount": 52
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Strategy/Strategy.sm",
+          "noteCount": 129
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Strategy/Strategy.sm",
+          "noteCount": 207
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Strategy/Strategy.sm",
+          "noteCount": 287
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Strategy/Strategy.sm",
+          "noteCount": 438
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Strategy/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Strategy/Strategy.ogg"
+    },
+    {
+      "id": "Mainstream Songs__STUCK (Thunderpuss Radio Remix)",
+      "title": "STUCK",
+      "artist": "STACIE ORRICO",
+      "bpm": {
+        "min": 127,
+        "max": 141
+      },
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/STUCK%20(Thunderpuss%20Radio%20Remix)/STUCK%20(Thunderpuss%20Radio%20Remix).sm",
+          "noteCount": 95
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/STUCK%20(Thunderpuss%20Radio%20Remix)/STUCK%20(Thunderpuss%20Radio%20Remix).sm",
+          "noteCount": 206
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/STUCK%20(Thunderpuss%20Radio%20Remix)/STUCK%20(Thunderpuss%20Radio%20Remix).sm",
+          "noteCount": 281
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/STUCK%20(Thunderpuss%20Radio%20Remix)/STUCK%20(Thunderpuss%20Radio%20Remix).png",
+      "audioFile": "/charts/Mainstream%20Songs/STUCK%20(Thunderpuss%20Radio%20Remix)/STUCK%20(Thunderpuss%20Radio%20Remix).mp3"
+    },
+    {
+      "id": "dancing-stage__Sunlight",
+      "title": "Sunlight",
+      "artist": "DJ SAMMY",
+      "bpm": 140.01,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Sunlight/Sunlight.sm",
+          "noteCount": 92
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/Sunlight/Sunlight.sm",
+          "noteCount": 120
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Sunlight/Sunlight.sm",
+          "noteCount": 208
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Sunlight/Sunlight.sm",
+          "noteCount": 288
+        }
+      ],
+      "banner": "/charts/dancing-stage/Sunlight/Sunlight-jacket.png",
+      "audioFile": "/charts/dancing-stage/Sunlight/Sunlight.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Sweet N Psycho",
+      "title": "Sweet N' Psycho",
+      "artist": "SCARLET",
+      "bpm": 115,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Sweet%20N%20Psycho/Sweet%20N%20Psycho.sm",
+          "noteCount": 56
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Sweet%20N%20Psycho/Sweet%20N%20Psycho.sm",
+          "noteCount": 97
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Sweet%20N%20Psycho/Sweet%20N%20Psycho.sm",
+          "noteCount": 298
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Sweet%20N%20Psycho/Sweet%20N%20Psycho.sm",
+          "noteCount": 342
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Sweet%20N%20Psycho/Sweet%20N%20Psycho.sm",
+          "noteCount": 461
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Sweet%20N%20Psycho/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Sweet%20N%20Psycho/Sweet%20N%20Psycho.ogg"
+    },
+    {
+      "id": "dancing-stage__TE AMO",
+      "title": "TE AMO",
+      "artist": "ANGELA BOFILL",
+      "bpm": 102,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/TE%20AMO/TE%20AMO.sm",
+          "noteCount": 91
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/TE%20AMO/TE%20AMO.sm",
+          "noteCount": 129
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/TE%20AMO/TE%20AMO.sm",
+          "noteCount": 173
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/TE%20AMO/TE%20AMO.sm",
+          "noteCount": 207
+        }
+      ],
+      "banner": "/charts/dancing-stage/TE%20AMO/TE%20AMO-jacket.png",
+      "audioFile": "/charts/dancing-stage/TE%20AMO/TE%20AMO.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Techno Town",
+      "title": "Techno Town",
+      "artist": "Little Sis Nora & E-Type",
+      "bpm": 155,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Techno%20Town/Techno%20Town.sm",
+          "noteCount": 80
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Techno%20Town/Techno%20Town.sm",
+          "noteCount": 163
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Techno%20Town/Techno%20Town.sm",
+          "noteCount": 264
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Techno%20Town/Techno%20Town.sm",
+          "noteCount": 328
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Techno%20Town/Techno%20Town.sm",
+          "noteCount": 523
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Techno%20Town/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Techno%20Town/Techno%20Town.ogg"
+    },
+    {
+      "id": "dancing-stage__TELL ME, TELL ME... BABY",
+      "title": "TELL ME, TELL ME... BABY",
+      "artist": "★NSYNC",
+      "bpm": {
+        "min": 98,
+        "max": 100
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/TELL%20ME%2C%20TELL%20ME...%20BABY/TELL%20ME%2C%20TELL%20ME...%20BABY.sm",
+          "noteCount": 65
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/TELL%20ME%2C%20TELL%20ME...%20BABY/TELL%20ME%2C%20TELL%20ME...%20BABY.sm",
+          "noteCount": 103
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/TELL%20ME%2C%20TELL%20ME...%20BABY/TELL%20ME%2C%20TELL%20ME...%20BABY.sm",
+          "noteCount": 169
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/TELL%20ME%2C%20TELL%20ME...%20BABY/TELL%20ME%2C%20TELL%20ME...%20BABY.sm",
+          "noteCount": 237
+        }
+      ],
+      "banner": "/charts/dancing-stage/TELL%20ME%2C%20TELL%20ME...%20BABY/TELL%20ME%2C%20TELL%20ME...%20BABY-jacket.png",
+      "audioFile": "/charts/dancing-stage/TELL%20ME%2C%20TELL%20ME...%20BABY/TELL%20ME%2C%20TELL%20ME...%20BABY.ogg"
+    },
+    {
+      "id": "dancing-stage__That Was Then,This Is Now",
+      "title": "That Was Then,This Is Now",
+      "artist": "HI-FIVE",
+      "bpm": 103.13,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/That%20Was%20Then%2CThis%20Is%20Now/That%20Was%20Then%2CThis%20Is%20Now.sm",
+          "noteCount": 81
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/That%20Was%20Then%2CThis%20Is%20Now/That%20Was%20Then%2CThis%20Is%20Now.sm",
+          "noteCount": 114
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/That%20Was%20Then%2CThis%20Is%20Now/That%20Was%20Then%2CThis%20Is%20Now.sm",
+          "noteCount": 182
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/That%20Was%20Then%2CThis%20Is%20Now/That%20Was%20Then%2CThis%20Is%20Now.sm",
+          "noteCount": 221
+        }
+      ],
+      "banner": "/charts/dancing-stage/That%20Was%20Then%2CThis%20Is%20Now/That%20Was%20Then%2CThis%20Is%20Now-jacket.png",
+      "audioFile": "/charts/dancing-stage/That%20Was%20Then%2CThis%20Is%20Now/That%20Was%20Then%2CThis%20Is%20Now.mp3"
+    },
+    {
+      "id": "Mainstream Songs__the beat of my heart - Hilary Duff",
+      "title": "the beat of my heart",
+      "artist": "Hilary Duff",
+      "bpm": {
+        "min": 69,
+        "max": 137
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff.sm",
+          "noteCount": 85
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff.sm",
+          "noteCount": 113
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff.sm",
+          "noteCount": 223
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff.sm",
+          "noteCount": 301
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff.png",
+      "audioFile": "/charts/Mainstream%20Songs/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff/the%20beat%20of%20my%20heart%20-%20Hilary%20Duff.mp3"
+    },
+    {
+      "id": "Mainstream Songs__The Call (Thunderpuss Radio Edit)",
+      "title": "The Call",
+      "artist": "Backstreet Boys",
+      "bpm": {
+        "min": 127,
+        "max": 130
+      },
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/The%20Call%20(Thunderpuss%20Radio%20Edit)/The%20Call%20(Thunderpuss%20Radio%20Edit).sm",
+          "noteCount": 167
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/The%20Call%20(Thunderpuss%20Radio%20Edit)/The%20Call%20(Thunderpuss%20Radio%20Edit).sm",
+          "noteCount": 111
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/The%20Call%20(Thunderpuss%20Radio%20Edit)/The%20Call%20(Thunderpuss%20Radio%20Edit).sm",
+          "noteCount": 236
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/The%20Call%20(Thunderpuss%20Radio%20Edit)/The%20Call%20(Thunderpuss%20Radio%20Edit).sm",
+          "noteCount": 319
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/The%20Call%20(Thunderpuss%20Radio%20Edit)/The%20Call%20(Thunderpuss%20Radio%20Edit).png",
+      "audioFile": "/charts/Mainstream%20Songs/The%20Call%20(Thunderpuss%20Radio%20Edit)/The%20Call%20(Thunderpuss%20Radio%20Edit).mp3"
+    },
+    {
+      "id": "Mainstream Songs__THE CHURCH OF HOT ADDICTION",
+      "title": "THE CHURCH OF HOT ADDICTION",
+      "artist": "COBRA STARSHIP",
+      "bpm": 147.955,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/Mainstream%20Songs/THE%20CHURCH%20OF%20HOT%20ADDICTION/THE%20CHURCH%20OF%20HOT%20ADDICTION.sm",
+          "noteCount": 110
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/THE%20CHURCH%20OF%20HOT%20ADDICTION/THE%20CHURCH%20OF%20HOT%20ADDICTION.sm",
+          "noteCount": 153
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/THE%20CHURCH%20OF%20HOT%20ADDICTION/THE%20CHURCH%20OF%20HOT%20ADDICTION.sm",
+          "noteCount": 263
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/THE%20CHURCH%20OF%20HOT%20ADDICTION/THE%20CHURCH%20OF%20HOT%20ADDICTION.sm",
+          "noteCount": 325
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/THE%20CHURCH%20OF%20HOT%20ADDICTION/THE%20CHURCH%20OF%20HOT%20ADDICTION.png",
+      "audioFile": "/charts/Mainstream%20Songs/THE%20CHURCH%20OF%20HOT%20ADDICTION/THE%20CHURCH%20OF%20HOT%20ADDICTION.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__The Game",
+      "title": "The Game",
+      "artist": "Nataleen",
+      "bpm": {
+        "min": 122,
+        "max": 126
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/The%20Game/The%20Game.sm",
+          "noteCount": 69
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/The%20Game/The%20Game.sm",
+          "noteCount": 138
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/The%20Game/The%20Game.sm",
+          "noteCount": 263
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/The%20Game/The%20Game.sm",
+          "noteCount": 311
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/The%20Game/The%20Game.sm",
+          "noteCount": 411
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/The%20Game/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/The%20Game/The%20Game.ogg"
+    },
+    {
+      "id": "Mainstream Songs__The Great Giana Sisters",
+      "title": "The Great Giana Sisters",
+      "artist": "Machinae Supremacy",
+      "bpm": {
+        "min": 125,
+        "max": 340
+      },
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/The%20Great%20Giana%20Sisters/The%20Great%20Giana%20Sisters.sm",
+          "noteCount": 432
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/The%20Great%20Giana%20Sisters/The%20Great%20Giana%20Sisters.sm",
+          "noteCount": 810
+        },
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/The%20Great%20Giana%20Sisters/The%20Great%20Giana%20Sisters.sm",
+          "noteCount": 1000
+        },
+        {
+          "name": "Challenge",
+          "level": 11,
+          "chartPath": "/charts/Mainstream%20Songs/The%20Great%20Giana%20Sisters/The%20Great%20Giana%20Sisters.sm",
+          "noteCount": 1337
+        }
+      ],
+      "titleTranslit": "The Great Giana Sisters",
+      "artistTranslit": "Machinae Supremacy",
+      "banner": "/charts/Mainstream%20Songs/The%20Great%20Giana%20Sisters/The%20Great%20Giana%20Sisters-banner.png",
+      "audioFile": "/charts/Mainstream%20Songs/The%20Great%20Giana%20Sisters/The%20Great%20Giana%20Sisters.mp3"
+    },
+    {
+      "id": "Mainstream Songs__THE SIGN",
+      "title": "THE SIGN",
+      "artist": "ACE OF BASE",
+      "bpm": 96.971,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/THE%20SIGN/THE%20SIGN.sm",
+          "noteCount": 115
+        },
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/Mainstream%20Songs/THE%20SIGN/THE%20SIGN.sm",
+          "noteCount": 148
+        },
+        {
+          "name": "Medium",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/THE%20SIGN/THE%20SIGN.sm",
+          "noteCount": 218
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/THE%20SIGN/THE%20SIGN.sm",
+          "noteCount": 268
+        },
+        {
+          "name": "Challenge",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/THE%20SIGN/THE%20SIGN.sm",
+          "noteCount": 358
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/THE%20SIGN/THE%20SIGN.png",
+      "audioFile": "/charts/Mainstream%20Songs/THE%20SIGN/THE%20SIGN.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__The Tide",
+      "title": "The Tide",
+      "artist": "E-Type",
+      "bpm": 139,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/The%20Tide/The%20Tide.sm",
+          "noteCount": 54
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/The%20Tide/The%20Tide.sm",
+          "noteCount": 127
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/The%20Tide/The%20Tide.sm",
+          "noteCount": 226
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/The%20Tide/The%20Tide.sm",
+          "noteCount": 348
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/The%20Tide/The%20Tide.sm",
+          "noteCount": 545
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/The%20Tide/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/The%20Tide/The%20Tide.ogg"
+    },
+    {
+      "id": "dancing-stage__THE VIBE IS RIGHT",
+      "title": "THE VIBE IS RIGHT",
+      "artist": "RUBY TURNER",
+      "bpm": 116.13,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/THE%20VIBE%20IS%20RIGHT/THE%20VIBE%20IS%20RIGHT.sm",
+          "noteCount": 85
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/THE%20VIBE%20IS%20RIGHT/THE%20VIBE%20IS%20RIGHT.sm",
+          "noteCount": 113
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/THE%20VIBE%20IS%20RIGHT/THE%20VIBE%20IS%20RIGHT.sm",
+          "noteCount": 171
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/THE%20VIBE%20IS%20RIGHT/THE%20VIBE%20IS%20RIGHT.sm",
+          "noteCount": 282
+        }
+      ],
+      "banner": "/charts/dancing-stage/THE%20VIBE%20IS%20RIGHT/THE%20VIBE%20IS%20RIGHT-jacket.png",
+      "audioFile": "/charts/dancing-stage/THE%20VIBE%20IS%20RIGHT/THE%20VIBE%20IS%20RIGHT.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Tonight",
+      "title": "Tonight",
+      "artist": "PinkPanthress",
+      "bpm": 141.41,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Tonight/Tonight.sm",
+          "noteCount": 46
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Tonight/Tonight.sm",
+          "noteCount": 125
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Tonight/Tonight.sm",
+          "noteCount": 201
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Tonight/Tonight.sm",
+          "noteCount": 230
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Tonight/Tonight.sm",
+          "noteCount": 418
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Tonight/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Tonight/Tonight.ogg"
+    },
+    {
+      "id": "dancing-stage__Tough Enough",
+      "title": "Tough Enough",
+      "artist": "Vanilla Ninja",
+      "bpm": 196.02,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/dancing-stage/Tough%20Enough/Tough%20Enough.sm",
+          "noteCount": 70
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/Tough%20Enough/Tough%20Enough.sm",
+          "noteCount": 134
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Tough%20Enough/Tough%20Enough.sm",
+          "noteCount": 182
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/Tough%20Enough/Tough%20Enough.sm",
+          "noteCount": 277
+        }
+      ],
+      "banner": "/charts/dancing-stage/Tough%20Enough/Tough%20Enough-jacket.png",
+      "audioFile": "/charts/dancing-stage/Tough%20Enough/Tough%20Enough.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__U Drive Me Crazy",
+      "title": "U Drive Me Crazy",
+      "artist": "Waldo's People",
+      "bpm": 135,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/U%20Drive%20Me%20Crazy/U%20Drive%20Me%20Crazy.sm",
+          "noteCount": 70
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/U%20Drive%20Me%20Crazy/U%20Drive%20Me%20Crazy.sm",
+          "noteCount": 170
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/U%20Drive%20Me%20Crazy/U%20Drive%20Me%20Crazy.sm",
+          "noteCount": 274
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/U%20Drive%20Me%20Crazy/U%20Drive%20Me%20Crazy.sm",
+          "noteCount": 397
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/U%20Drive%20Me%20Crazy/U%20Drive%20Me%20Crazy.sm",
+          "noteCount": 582
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/U%20Drive%20Me%20Crazy/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/U%20Drive%20Me%20Crazy/U%20Drive%20Me%20Crazy.ogg"
+    },
+    {
+      "id": "dancing-stage__Uh La La La",
+      "title": "Uh La La La",
+      "artist": "ALEXIA",
+      "bpm": 130.018,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/dancing-stage/Uh%20La%20La%20La/Uh%20La%20La%20La.sm",
+          "noteCount": 164
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Uh%20La%20La%20La/Uh%20La%20La%20La.sm",
+          "noteCount": 217
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/dancing-stage/Uh%20La%20La%20La/Uh%20La%20La%20La.sm",
+          "noteCount": 344
+        }
+      ],
+      "banner": "/charts/dancing-stage/Uh%20La%20La%20La/Uh%20La%20La%20La-jacket.png",
+      "audioFile": "/charts/dancing-stage/Uh%20La%20La%20La/Uh%20La%20La%20La.ogg"
+    },
+    {
+      "id": "Mainstream Songs__Ultimate Cheeseburger",
+      "title": "Ultimate Cheeseburger",
+      "artist": "Meaty Cheesy Boys",
+      "bpm": 137.01,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 2,
+          "chartPath": "/charts/Mainstream%20Songs/Ultimate%20Cheeseburger/Ultimate%20Cheeseburger.sm",
+          "noteCount": 146
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/Ultimate%20Cheeseburger/Ultimate%20Cheeseburger.sm",
+          "noteCount": 255
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/Ultimate%20Cheeseburger/Ultimate%20Cheeseburger.sm",
+          "noteCount": 368
+        }
+      ],
+      "titleTranslit": "Ultimate Cheeseburger",
+      "artistTranslit": "Meaty Cheesy Boys",
+      "banner": "/charts/Mainstream%20Songs/Ultimate%20Cheeseburger/Ultimate%20Cheeseburger%20BN.PNG",
+      "audioFile": "/charts/Mainstream%20Songs/Ultimate%20Cheeseburger/Ultimate%20Cheeseburger.mp3"
+    },
+    {
+      "id": "dancing-stage__VANITY ANGEL",
+      "title": "VANITY ANGEL",
+      "artist": "FIX X",
+      "bpm": {
+        "min": 140,
+        "max": 140
+      },
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/VANITY%20ANGEL/VANITY%20ANGEL.sm",
+          "noteCount": 83
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/VANITY%20ANGEL/VANITY%20ANGEL.sm",
+          "noteCount": 145
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/VANITY%20ANGEL/VANITY%20ANGEL.sm",
+          "noteCount": 237
+        },
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/dancing-stage/VANITY%20ANGEL/VANITY%20ANGEL.sm",
+          "noteCount": 326
+        }
+      ],
+      "banner": "/charts/dancing-stage/VANITY%20ANGEL/VANITY%20ANGEL-jacket.png",
+      "audioFile": "/charts/dancing-stage/VANITY%20ANGEL/VANITY%20ANGEL.ogg"
+    },
+    {
+      "id": "dancing-stage__Video Killed The Radio Star",
+      "title": "Video Killed The Radio Star",
+      "artist": "The Buggles",
+      "bpm": 130.74,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Video%20Killed%20The%20Radio%20Star/Video%20Killed%20The%20Radio%20Star.sm",
+          "noteCount": 92
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/Video%20Killed%20The%20Radio%20Star/Video%20Killed%20The%20Radio%20Star.sm",
+          "noteCount": 134
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Video%20Killed%20The%20Radio%20Star/Video%20Killed%20The%20Radio%20Star.sm",
+          "noteCount": 157
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/Video%20Killed%20The%20Radio%20Star/Video%20Killed%20The%20Radio%20Star.sm",
+          "noteCount": 213
+        },
+        {
+          "name": "Challenge",
+          "level": 8,
+          "chartPath": "/charts/dancing-stage/Video%20Killed%20The%20Radio%20Star/Video%20Killed%20The%20Radio%20Star.sm",
+          "noteCount": 310
+        }
+      ],
+      "banner": "/charts/dancing-stage/Video%20Killed%20The%20Radio%20Star/Video%20Killed%20The%20Radio%20Star-jacket.png",
+      "audioFile": "/charts/dancing-stage/Video%20Killed%20The%20Radio%20Star/Video%20Killed%20The%20Radio%20Star.ogg"
+    },
+    {
+      "id": "dancing-stage__What Can I Say To You",
+      "title": "What Can I Say To You",
+      "artist": "HI-FIVE",
+      "bpm": 93.085,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/What%20Can%20I%20Say%20To%20You/What%20Can%20I%20Say%20To%20You.sm",
+          "noteCount": 75
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/What%20Can%20I%20Say%20To%20You/What%20Can%20I%20Say%20To%20You.sm",
+          "noteCount": 124
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/What%20Can%20I%20Say%20To%20You/What%20Can%20I%20Say%20To%20You.sm",
+          "noteCount": 166
+        },
+        {
+          "name": "Hard",
+          "level": 6,
+          "chartPath": "/charts/dancing-stage/What%20Can%20I%20Say%20To%20You/What%20Can%20I%20Say%20To%20You.sm",
+          "noteCount": 202
+        }
+      ],
+      "banner": "/charts/dancing-stage/What%20Can%20I%20Say%20To%20You/What%20Can%20I%20Say%20To%20You-jacket.png",
+      "audioFile": "/charts/dancing-stage/What%20Can%20I%20Say%20To%20You/What%20Can%20I%20Say%20To%20You.ogg"
+    },
+    {
+      "id": "Mainstream Songs__White Bird (Airscape Mix)",
+      "title": "White Bird",
+      "artist": "Vanessa Mae",
+      "bpm": {
+        "min": 70,
+        "max": 140
+      },
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/White%20Bird%20(Airscape%20Mix)/White%20Bird%20(Airscape%20Mix).sm",
+          "noteCount": 292
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/White%20Bird%20(Airscape%20Mix)/White%20Bird%20(Airscape%20Mix).sm",
+          "noteCount": 163
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/White%20Bird%20(Airscape%20Mix)/White%20Bird%20(Airscape%20Mix).sm",
+          "noteCount": 79
+        },
+        {
+          "name": "Medium",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/White%20Bird%20(Airscape%20Mix)/White%20Bird%20(Airscape%20Mix).sm",
+          "noteCount": 238
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/White%20Bird%20(Airscape%20Mix)/White%20Bird%20(Airscape%20Mix)%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/White%20Bird%20(Airscape%20Mix)/White%20Bird%20(Airscape%20Mix).mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__With Love",
+      "title": "With Love",
+      "artist": "Hilary Duff",
+      "bpm": 122,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/With%20Love/With%20Love.sm",
+          "noteCount": 53
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/With%20Love/With%20Love.sm",
+          "noteCount": 121
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/With%20Love/With%20Love.sm",
+          "noteCount": 191
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/With%20Love/With%20Love.sm",
+          "noteCount": 250
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/With%20Love/With%20Love.sm",
+          "noteCount": 452
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/With%20Love/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/With%20Love/With%20Love.ogg"
+    },
+    {
+      "id": "dancing-stage__Word Up",
+      "title": "Word Up",
+      "artist": "Cameo",
+      "bpm": 116.22,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/dancing-stage/Word%20Up/Word%20Up.sm",
+          "noteCount": 93
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/dancing-stage/Word%20Up/Word%20Up.sm",
+          "noteCount": 136
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/dancing-stage/Word%20Up/Word%20Up.sm",
+          "noteCount": 207
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/dancing-stage/Word%20Up/Word%20Up.sm",
+          "noteCount": 300
+        }
+      ],
+      "banner": "/charts/dancing-stage/Word%20Up/Word%20Up-jacket.png",
+      "audioFile": "/charts/dancing-stage/Word%20Up/Word%20Up.ogg"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Yihaa",
+      "title": "Yihaa",
+      "artist": "Dolly Style",
+      "bpm": 125,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Yihaa/Yihaa.sm",
+          "noteCount": 74
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Yihaa/Yihaa.sm",
+          "noteCount": 161
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Yihaa/Yihaa.sm",
+          "noteCount": 256
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Yihaa/Yihaa.sm",
+          "noteCount": 373
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Yihaa/Yihaa.sm",
+          "noteCount": 546
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Yihaa/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Yihaa/Yihaa.ogg"
+    },
+    {
+      "id": "Mainstream Songs__You Got Robo-Served",
+      "title": "You Got Robo-Served",
+      "artist": "Seth Green (DMX parody)",
+      "bpm": 94,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/You%20Got%20Robo-Served/served.sm",
+          "noteCount": 69
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/You%20Got%20Robo-Served/served.sm",
+          "noteCount": 213
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/You%20Got%20Robo-Served/served.sm",
+          "noteCount": 311
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/You%20Got%20Robo-Served/served.sm",
+          "noteCount": 386
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/You%20Got%20Robo-Served/served-banner.png",
+      "audioFile": "/charts/Mainstream%20Songs/You%20Got%20Robo-Served/served.ogg"
+    },
+    {
+      "id": "Mainstream Songs__You're A Pirate",
+      "title": "You're A Pirate",
+      "artist": "LAZY TOWN",
+      "bpm": 120,
+      "difficulties": [
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate.sm",
+          "noteCount": 170
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate.sm",
+          "noteCount": 260
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate.sm",
+          "noteCount": 323
+        },
+        {
+          "name": "Challenge",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate.sm",
+          "noteCount": 418
+        },
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate.sm",
+          "noteCount": 93
+        }
+      ],
+      "banner": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate%20BN.png",
+      "audioFile": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate.mp3"
+    },
+    {
+      "id": "JBEAN Originals - 2025__Yum",
+      "title": "Yum",
+      "artist": "Kep1er",
+      "bpm": 144,
+      "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Yum/Yum.sm",
+          "noteCount": 82
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Yum/Yum.sm",
+          "noteCount": 254
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Yum/Yum.sm",
+          "noteCount": 329
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Yum/Yum.sm",
+          "noteCount": 505
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/JBEAN%20Originals%20-%202025/Yum/Yum.sm",
+          "noteCount": 674
+        }
+      ],
+      "banner": "/charts/JBEAN%20Originals%20-%202025/Yum/BN.png",
+      "audioFile": "/charts/JBEAN%20Originals%20-%202025/Yum/Yum.ogg"
+    }
+  ],
+  "generatedAt": "2026-01-25T22:46:31.788Z"
+}

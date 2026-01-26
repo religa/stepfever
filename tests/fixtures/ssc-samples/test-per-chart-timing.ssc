@@ -1,0 +1,186 @@
+#VERSION:0.83;
+#TITLE:Per-Chart Timing Test;
+#SUBTITLE:Different timing per difficulty;
+#ARTIST:StepFever Test;
+#TITLETRANSLIT:;
+#SUBTITLETRANSLIT:;
+#ARTISTTRANSLIT:;
+#GENRE:Test;
+#ORIGIN:;
+#CREDIT:StepFever;
+#BANNER:;
+#BACKGROUND:;
+#PREVIEWVID:;
+#JACKET:;
+#CDIMAGE:;
+#DISCIMAGE:;
+#LYRICSPATH:;
+#CDTITLE:;
+#MUSIC:;
+#OFFSET:-0.050;
+#SAMPLESTART:0.000;
+#SAMPLELENGTH:10.000;
+#SELECTABLE:YES;
+#DISPLAYBPM:150;
+#BPMS:0.000=150.000;
+#STOPS:;
+#DELAYS:;
+#WARPS:;
+#TIMESIGNATURES:0.000=4=4;
+#TICKCOUNTS:0.000=4;
+#COMBOS:0.000=1;
+#SPEEDS:0.000=1.000=0.000=0;
+#SCROLLS:0.000=1.000;
+#FAKES:;
+#LABELS:0.000=Song Start;
+#BGCHANGES:;
+#KEYSOUNDS:;
+#ATTACKS:;
+
+//---------------dance-single - Easy (uses song-level timing) ----------------
+#NOTEDATA:;
+#CHARTNAME:Easy - Song Timing;
+#STEPSTYPE:dance-single;
+#DESCRIPTION:Uses song-level BPM/offset;
+#CHARTSTYLE:;
+#DIFFICULTY:Easy;
+#METER:3;
+#RADARVALUES:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;
+#CREDIT:StepFever Test;
+#NOTES:
+1000
+0000
+0100
+0000
+,
+0010
+0000
+0001
+0000
+,
+1000
+0100
+0010
+0001
+,
+0000
+0000
+0000
+0000
+;
+
+//---------------dance-single - Medium (overrides BPM) ----------------
+#NOTEDATA:;
+#CHARTNAME:Medium - Custom BPM;
+#STEPSTYPE:dance-single;
+#DESCRIPTION:Overrides song BPM;
+#CHARTSTYLE:;
+#DIFFICULTY:Medium;
+#METER:5;
+#RADARVALUES:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;
+#CREDIT:StepFever Test;
+#BPMS:0.000=180.000;
+#DISPLAYBPM:180;
+#NOTES:
+1000
+0100
+0010
+0001
+,
+1001
+0110
+1001
+0110
+,
+1000
+0100
+0010
+0001
+,
+0000
+0000
+0000
+0000
+;
+
+//---------------dance-single - Hard (overrides offset and has stops) ----------------
+#NOTEDATA:;
+#CHARTNAME:Hard - Custom Offset;
+#STEPSTYPE:dance-single;
+#DESCRIPTION:Overrides offset, adds stops;
+#CHARTSTYLE:;
+#DIFFICULTY:Hard;
+#METER:7;
+#RADARVALUES:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;
+#CREDIT:StepFever Test;
+#OFFSET:0.025;
+#STOPS:4.000=0.250,8.000=0.500;
+#NOTES:
+1000
+0100
+0010
+0001
+,
+1001
+0110
+1001
+0110
+,
+1000
+0100
+0010
+0001
+,
+1001
+0110
+1001
+0110
+;
+
+//---------------dance-single - Challenge (complex BPM changes) ----------------
+#NOTEDATA:;
+#CHARTNAME:Challenge - BPM Gimmicks;
+#STEPSTYPE:dance-single;
+#DESCRIPTION:Multiple BPM changes;
+#CHARTSTYLE:;
+#DIFFICULTY:Challenge;
+#METER:10;
+#RADARVALUES:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;
+#CREDIT:StepFever Test;
+#OFFSET:0.000;
+#BPMS:0.000=150.000
+,4.000=75.000
+,6.000=300.000
+,8.000=150.000;
+#STOPS:2.000=0.100;
+#DISPLAYBPM:75-300;
+#TIMESIGNATURES:0.000=4=4,4.000=3=4,8.000=4=4;
+#NOTES:
+// 150 BPM
+1000
+0100
+0010
+0001
+,
+// Slowdown to 75 BPM
+1001
+0110
+1001
+0000
+,
+// Speed up to 300 BPM
+1000
+0100
+0010
+0001
+1000
+0100
+0010
+0001
+,
+// Back to 150
+1001
+0110
+1001
+0110
+;
