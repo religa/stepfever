@@ -82,7 +82,8 @@ ref/*
 # Documentation (archived planning docs - keep main docs)
 docs/old/
 docs/
-charts/
+charts/*
+!charts/.gitkeep
 .env.production
 
 
