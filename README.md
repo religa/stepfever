@@ -11,16 +11,13 @@ StepFever is a free, open-source rhythm game for web browsers. Play DDR and Step
 -->
 
 <video
-  src="https://github.com/user-attachments/assets/73b86bd4-ac32-45ea-91ab-1dd0e61cc244"
+  src="https://github.com/user-attachments/assets/384e39df-95bb-46bc-8149-56b2dd54eef9"
   autoplay
   loop
   muted
   playsinline
   width="640">
 </video>
-
-<!-- TODO: Add gameplay GIF - critical for engagement -->
-<!-- ![StepFever gameplay - browser-based open source rhythm game](docs/images/gameplay.gif) -->
 
 **StepFever** is a **free, open-source rhythm game** that runs entirely in your web browser. Play **StepMania** and **DDR-style** charts (.sm, .ssc) with your keyboard, USB dance pad, or gamepad. No installation required—just open and play!
 
@@ -37,6 +34,10 @@ Perfect for fans of **Dance Dance Revolution (DDR)**, **StepMania**, **In The Gr
 
 ## Quick Start
 
+**[Play Now at stepfever.vercel.app](https://stepfever.vercel.app/)** - no installation required!
+
+Or run locally:
+
 ```bash
 # Install Bun runtime
 curl -fsSL https://bun.sh/install | bash
@@ -52,8 +53,8 @@ Open **http://localhost:5173** and start playing!
 
 StepFever plays standard StepMania song packs. Download songs from:
 - [StepMania Online](https://search.stepmaniaonline.net/) - Song search engine
-- [Zenius-I-vanisher](https://zenius-i-vanisher.com/v5.2/simfiles.php) - Simfile database
-- [r/Stepmania Wiki](https://www.reddit.com/r/Stepmania/wiki/packs) - Community packs
+- [Zenius-I-vanisher](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles) - Simfile database
+- [Etterna Online](https://etternaonline.com/packs) - Etterna community charts
 
 Extract song folders into `charts/` and restart the dev server:
 
@@ -165,7 +166,7 @@ See **[docs/DEVELOPMENT.md](docs/DEVELOPMENT.md)** for:
 
 - [StepMania](https://www.stepmania.com/) - The original open-source dance game
 - [Etterna](https://etternaonline.com/) - Keyboard-focused StepMania fork
-- [NotITG](https://www.notiitg.com/) - Modding-focused StepMania fork
+- [In The Groove (ITG)](https://itgmania.com/) - Popular StepMania mod
 
 ## License
 
