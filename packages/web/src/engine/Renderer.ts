@@ -2,10 +2,11 @@ import type { JudgmentResult, NoteState } from "@stepfever/core";
 import { Application, Container, Graphics, Text, TextStyle } from "pixi.js";
 
 const COLUMN_WIDTH = 80;
+const ARROW_SIZE = 64; // Arrow dimensions (64x64 to match SVG)
 const RECEPTOR_Y = 100; // Receptors at the top
 const DEFAULT_SCROLL_SPEED = 300; // Default pixels per beat (scrolling upward)
 
-const COLUMN_COLORS = [0xff0000, 0x0000ff, 0x0000ff, 0xff0000]; // LDUR
+const COLUMN_COLORS = [0xf90202, 0x0066ff, 0x0066ff, 0xf90202]; // LDUR: red, blue, blue, red
 
 const JUDGMENT_COLORS: Record<string, number> = {
 	marvelous: 0x00ffff,
@@ -97,7 +98,8 @@ export interface RendererOptions {
 }
 
 /**
- * Draw a stylized arrow in the given direction
+ * Draw a stylized arrow in the given direction.
+ * Based on Untitled.svg design with 64x64 coordinate space.
  */
 function drawArrow(
 	graphics: Graphics,
@@ -105,67 +107,71 @@ function drawArrow(
 	width: number,
 	height: number,
 	fillColor: number,
-	strokeColor?: number,
+	_strokeColor?: number,
 ): void {
 	const centerX = width / 2;
 	const centerY = height / 2;
-	const arrowSize = Math.min(width, height) * 0.8;
+
+	// SVG uses 64x64 viewBox, scale to fit
+	const scale = Math.min(width, height) / 64;
+
+	// Transform helper (SVG coords are 0-64, centered at 32,32)
+	const tx = (x: number) => centerX + (x - 32) * scale;
+	const ty = (y: number) => centerY + (y - 32) * scale;
 
 	graphics.clear();
 
-	// Arrow shape varies by direction
-	switch (direction) {
-		case "left":
-			// Point to the left
-			graphics.moveTo(centerX - arrowSize / 2, centerY);
-			graphics.lineTo(centerX + arrowSize / 4, centerY - arrowSize / 3);
-			graphics.lineTo(centerX + arrowSize / 4, centerY - arrowSize / 6);
-			graphics.lineTo(centerX + arrowSize / 2, centerY - arrowSize / 6);
-			graphics.lineTo(centerX + arrowSize / 2, centerY + arrowSize / 6);
-			graphics.lineTo(centerX + arrowSize / 4, centerY + arrowSize / 6);
-			graphics.lineTo(centerX + arrowSize / 4, centerY + arrowSize / 3);
-			graphics.lineTo(centerX - arrowSize / 2, centerY);
-			break;
-		case "right":
-			// Point to the right
-			graphics.moveTo(centerX + arrowSize / 2, centerY);
-			graphics.lineTo(centerX - arrowSize / 4, centerY - arrowSize / 3);
-			graphics.lineTo(centerX - arrowSize / 4, centerY - arrowSize / 6);
-			graphics.lineTo(centerX - arrowSize / 2, centerY - arrowSize / 6);
-			graphics.lineTo(centerX - arrowSize / 2, centerY + arrowSize / 6);
-			graphics.lineTo(centerX - arrowSize / 4, centerY + arrowSize / 6);
-			graphics.lineTo(centerX - arrowSize / 4, centerY + arrowSize / 3);
-			graphics.lineTo(centerX + arrowSize / 2, centerY);
-			break;
-		case "up":
-			// Point upward
-			graphics.moveTo(centerX, centerY - arrowSize / 2);
-			graphics.lineTo(centerX + arrowSize / 3, centerY + arrowSize / 4);
-			graphics.lineTo(centerX + arrowSize / 6, centerY + arrowSize / 4);
-			graphics.lineTo(centerX + arrowSize / 6, centerY + arrowSize / 2);
-			graphics.lineTo(centerX - arrowSize / 6, centerY + arrowSize / 2);
-			graphics.lineTo(centerX - arrowSize / 6, centerY + arrowSize / 4);
-			graphics.lineTo(centerX - arrowSize / 3, centerY + arrowSize / 4);
-			graphics.lineTo(centerX, centerY - arrowSize / 2);
-			break;
-		case "down":
-			// Point downward
-			graphics.moveTo(centerX, centerY + arrowSize / 2);
-			graphics.lineTo(centerX + arrowSize / 3, centerY - arrowSize / 4);
-			graphics.lineTo(centerX + arrowSize / 6, centerY - arrowSize / 4);
-			graphics.lineTo(centerX + arrowSize / 6, centerY - arrowSize / 2);
-			graphics.lineTo(centerX - arrowSize / 6, centerY - arrowSize / 2);
-			graphics.lineTo(centerX - arrowSize / 6, centerY - arrowSize / 4);
-			graphics.lineTo(centerX - arrowSize / 3, centerY - arrowSize / 4);
-			graphics.lineTo(centerX, centerY + arrowSize / 2);
-			break;
-	}
+	// Arrow path from Untitled.svg (rounded coordinates, pointing UP)
+	const basePath: [number, number][] = [
+		[56, 32], [56, 38], [52, 42], [46, 42], [40, 36],
+		[40, 52], [36, 56], [28, 56], [24, 52], [24, 36],
+		[18, 42], [12, 42], [8, 38], [8, 32], [32, 8],
+	];
 
+	// Rotate point around center (32, 32)
+	const rotatePoint = (x: number, y: number, angle: number): [number, number] => {
+		const cos = Math.cos(angle);
+		const sin = Math.sin(angle);
+		const dx = x - 32;
+		const dy = y - 32;
+		return [32 + dx * cos - dy * sin, 32 + dx * sin + dy * cos];
+	};
+
+	const rotations: Record<string, number> = {
+		up: 0, right: Math.PI / 2, down: Math.PI, left: -Math.PI / 2,
+	};
+
+	const angle = rotations[direction] ?? 0;
+	const path = basePath.map(([x, y]) => rotatePoint(x, y, angle));
+
+	// Helper to draw the arrow path
+	const drawPath = () => {
+		const firstPoint = path[0];
+		if (firstPoint) {
+			graphics.moveTo(tx(firstPoint[0]), ty(firstPoint[1]));
+		}
+		for (let i = 1; i < path.length; i++) {
+			const point = path[i];
+			if (point) {
+				graphics.lineTo(tx(point[0]), ty(point[1]));
+			}
+		}
+		graphics.closePath();
+	};
+
+	// GLOW EFFECT - soft colored glow around the arrow
+	graphics.beginPath();
+	drawPath();
+	graphics.stroke({ color: fillColor, width: 10 * scale, alpha: 0.4 });
+
+	// Main arrow shape
+	graphics.beginPath();
+	drawPath();
 	graphics.fill({ color: fillColor });
-	if (strokeColor !== undefined) {
-		graphics.stroke({ color: strokeColor, width: 3 });
-	}
+	graphics.stroke({ color: 0x000000, width: 4 * scale });
 }
+
+
 
 export class Renderer {
 	private app: Application;
@@ -380,10 +386,10 @@ export class Renderer {
 			const direction = ARROW_DIRECTIONS[col];
 			const color = COLUMN_COLORS[col];
 			if (direction !== undefined && color !== undefined) {
-				drawArrow(receptor, direction, COLUMN_WIDTH - 4, 60, 0x444444, color);
+				drawArrow(receptor, direction, ARROW_SIZE, ARROW_SIZE, 0x444444, color);
 			}
-			receptor.x = startX + col * COLUMN_WIDTH;
-			receptor.y = RECEPTOR_Y - 20; // Center the taller arrow
+			receptor.x = startX + col * COLUMN_WIDTH + (COLUMN_WIDTH - ARROW_SIZE) / 2;
+			receptor.y = RECEPTOR_Y - ARROW_SIZE / 2;
 			this.receptors.push(receptor);
 			this.noteField.addChild(receptor);
 		}
@@ -516,7 +522,7 @@ export class Renderer {
 				const fillColor = pressed ? 0x888888 : 0x444444;
 
 				if (direction !== undefined && strokeColor !== undefined) {
-					drawArrow(receptor, direction, COLUMN_WIDTH - 4, 60, fillColor, strokeColor);
+					drawArrow(receptor, direction, ARROW_SIZE, ARROW_SIZE, fillColor, strokeColor);
 				}
 			}
 		}
@@ -566,14 +572,14 @@ export class Renderer {
 				const direction = ARROW_DIRECTIONS[state.note.column];
 				const color = COLUMN_COLORS[state.note.column] ?? 0xffffff;
 				if (direction !== undefined) {
-					drawArrow(graphic, direction, COLUMN_WIDTH - 4, 60, color);
+					drawArrow(graphic, direction, ARROW_SIZE, ARROW_SIZE, color);
 				}
 				this.noteGraphics.set(state, graphic);
 				this.noteField.addChild(graphic);
 			}
 
-			graphic.x = startX + state.note.column * COLUMN_WIDTH;
-			graphic.y = y - 20; // Center the taller arrow
+			graphic.x = startX + state.note.column * COLUMN_WIDTH + (COLUMN_WIDTH - ARROW_SIZE) / 2;
+			graphic.y = y - ARROW_SIZE / 2;
 		}
 
 		// Update combo
