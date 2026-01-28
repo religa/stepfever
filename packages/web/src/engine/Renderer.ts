@@ -123,9 +123,21 @@ function drawArrow(
 
 	// Arrow path from Untitled.svg (rounded coordinates, pointing UP)
 	const basePath: [number, number][] = [
-		[56, 32], [56, 38], [52, 42], [46, 42], [40, 36],
-		[40, 52], [36, 56], [28, 56], [24, 52], [24, 36],
-		[18, 42], [12, 42], [8, 38], [8, 32], [32, 8],
+		[56, 32],
+		[56, 38],
+		[52, 42],
+		[46, 42],
+		[40, 36],
+		[40, 52],
+		[36, 56],
+		[28, 56],
+		[24, 52],
+		[24, 36],
+		[18, 42],
+		[12, 42],
+		[8, 38],
+		[8, 32],
+		[32, 8],
 	];
 
 	// Rotate point around center (32, 32)
@@ -138,7 +150,10 @@ function drawArrow(
 	};
 
 	const rotations: Record<string, number> = {
-		up: 0, right: Math.PI / 2, down: Math.PI, left: -Math.PI / 2,
+		up: 0,
+		right: Math.PI / 2,
+		down: Math.PI,
+		left: -Math.PI / 2,
 	};
 
 	const angle = rotations[direction] ?? 0;
@@ -170,8 +185,6 @@ function drawArrow(
 	graphics.fill({ color: fillColor });
 	graphics.stroke({ color: 0x000000, width: 4 * scale });
 }
-
-
 
 export class Renderer {
 	private app: Application;

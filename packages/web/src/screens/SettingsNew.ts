@@ -14,7 +14,7 @@ export class SettingsScreen implements Screen {
 	private backgrounds: BackgroundOption[] = [];
 	private isMounted = false;
 	private selectedIndex = 0;
-	private readonly settingsCount = 7; // FPS, Timing, Menu Sounds, Speed, Offset, Gamepad, Background
+	private readonly settingsCount = 6; // FPS, Menu Sounds, Speed, Offset, Gamepad, Background
 
 	constructor(onNavigate: (screen: string) => void) {
 		this.onNavigate = onNavigate;
@@ -91,10 +91,6 @@ export class SettingsScreen implements Screen {
 		const fpsStatus = showFps ? "ON" : "OFF";
 		const fpsClass = showFps ? "toggle-on" : "toggle-off";
 
-		const showTimingDisplay = useAppStore.getState().showTimingDisplay;
-		const timingStatus = showTimingDisplay ? "ON" : "OFF";
-		const timingClass = showTimingDisplay ? "toggle-on" : "toggle-off";
-
 		const menuSounds = usePreferences.getState().menuSounds;
 		const menuSoundsStatus = menuSounds ? "ON" : "OFF";
 		const menuSoundsClass = menuSounds ? "toggle-on" : "toggle-off";
@@ -116,7 +112,7 @@ export class SettingsScreen implements Screen {
           <div class="setting-item ${this.selectedIndex === 0 ? "selected" : ""}">
             <div class="setting-label">
               <h3>FPS Counter</h3>
-              <p>Display frames per second during gameplay</p>
+              <p>Display performance stats during gameplay</p>
             </div>
             <button id="btn-toggle-fps" class="toggle-button ${fpsClass}">
               ${fpsStatus}
@@ -124,16 +120,6 @@ export class SettingsScreen implements Screen {
           </div>
 
           <div class="setting-item ${this.selectedIndex === 1 ? "selected" : ""}">
-            <div class="setting-label">
-              <h3>Timing Display</h3>
-              <p>Show ms error on judgments (in FPS overlay)</p>
-            </div>
-            <button id="btn-toggle-timing" class="toggle-button ${timingClass}">
-              ${timingStatus}
-            </button>
-          </div>
-
-          <div class="setting-item ${this.selectedIndex === 2 ? "selected" : ""}">
             <div class="setting-label">
               <h3>Menu Sounds</h3>
               <p>Audio feedback for menu navigation</p>
@@ -143,7 +129,7 @@ export class SettingsScreen implements Screen {
             </button>
           </div>
 
-          <div class="setting-item ${this.selectedIndex === 3 ? "selected" : ""}">
+          <div class="setting-item ${this.selectedIndex === 2 ? "selected" : ""}">
             <div class="setting-label">
               <h3>Speed Modifier</h3>
               <p>Current: ${escapeHtml(speedModText)}</p>
@@ -153,7 +139,7 @@ export class SettingsScreen implements Screen {
             </button>
           </div>
 
-          <div class="setting-item ${this.selectedIndex === 4 ? "selected" : ""}">
+          <div class="setting-item ${this.selectedIndex === 3 ? "selected" : ""}">
             <div class="setting-label">
               <h3>Global Offset</h3>
               <p>Current: ${(useAppStore.getState().globalOffset * 1000).toFixed(1)}ms</p>
@@ -163,7 +149,7 @@ export class SettingsScreen implements Screen {
             </button>
           </div>
 
-          <div class="setting-item ${this.selectedIndex === 5 ? "selected" : ""}">
+          <div class="setting-item ${this.selectedIndex === 4 ? "selected" : ""}">
             <div class="setting-label">
               <h3>Gamepad / Dance Pad</h3>
               <p>Configure button mappings for gamepads</p>
@@ -173,7 +159,7 @@ export class SettingsScreen implements Screen {
             </button>
           </div>
 
-          <div class="setting-item ${this.selectedIndex === 6 ? "selected" : ""}">
+          <div class="setting-item ${this.selectedIndex === 5 ? "selected" : ""}">
             <div class="setting-label">
               <h3>Background</h3>
               <p>Choose your visual backdrop</p>
@@ -217,11 +203,6 @@ export class SettingsScreen implements Screen {
 			this.toggleFps();
 		});
 
-		document.getElementById("btn-toggle-timing")?.addEventListener("click", () => {
-			menuAudio.playSelect();
-			this.toggleTimingDisplay();
-		});
-
 		document.getElementById("btn-toggle-menu-sounds")?.addEventListener("click", () => {
 			menuAudio.playSelect();
 			this.toggleMenuSounds();
@@ -262,7 +243,7 @@ export class SettingsScreen implements Screen {
 
 	private handleHorizontalAction(action: "LEFT" | "RIGHT"): void {
 		// Only background cycler supports left/right
-		if (this.selectedIndex === 6) {
+		if (this.selectedIndex === 5) {
 			const delta = action === "LEFT" ? -1 : 1;
 			menuAudio.playNavigate();
 			this.cycleBackground(delta);
@@ -276,21 +257,18 @@ export class SettingsScreen implements Screen {
 				this.toggleFps();
 				break;
 			case 1:
-				this.toggleTimingDisplay();
-				break;
-			case 2:
 				this.toggleMenuSounds();
 				break;
-			case 3:
+			case 2:
 				this.onNavigate("speed-mod-select");
 				break;
-			case 4:
+			case 3:
 				this.onNavigate("calibration");
 				break;
-			case 5:
+			case 4:
 				this.onNavigate("gamepad-settings");
 				break;
-			case 6:
+			case 5:
 				// Background - use left/right to cycle
 				break;
 		}
@@ -312,13 +290,6 @@ export class SettingsScreen implements Screen {
 	private toggleFps(): void {
 		const currentValue = useAppStore.getState().showFps;
 		useAppStore.getState().setShowFps(!currentValue);
-		this.render();
-		this.attachEventListeners();
-	}
-
-	private toggleTimingDisplay(): void {
-		const currentValue = useAppStore.getState().showTimingDisplay;
-		useAppStore.getState().setShowTimingDisplay(!currentValue);
 		this.render();
 		this.attachEventListeners();
 	}

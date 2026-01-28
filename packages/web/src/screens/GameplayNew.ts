@@ -27,15 +27,7 @@ export class GameplayScreen implements Screen {
 		const currentMountId = ++this.mountId;
 		this.container = container;
 
-		const {
-			selectedSong,
-			selectedDifficulty,
-			globalOffset,
-			showFps,
-			showTimingDisplay,
-			showAudioLatency,
-			speedModifier,
-		} = useAppStore.getState();
+		const { selectedSong, selectedDifficulty, globalOffset, showFps, speedModifier } = useAppStore.getState();
 
 		if (!selectedSong || !selectedDifficulty) {
 			alert("No song selected!");
@@ -140,8 +132,6 @@ export class GameplayScreen implements Screen {
 			// Create game engine
 			this.gameEngine = new GameEngine(this.canvas, chart, chartDifficulty, audioFile, globalOffset, {
 				showFps,
-				showTimingDisplay,
-				showAudioLatency,
 				speedModifier,
 				rendererOptions: {
 					viewport,

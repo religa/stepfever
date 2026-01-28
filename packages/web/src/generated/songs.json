@@ -217,10 +217,10 @@
       "bpm": 143.65,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 8,
+          "name": "Easy",
+          "level": 4,
           "chartPath": "/charts/Mainstream%20Songs/Another%20Night%20(DJ%20Tora%20Vocal%20Mix)/Another%20Night%20(DJ%20Tora%20Vocal%20Mix).sm",
-          "noteCount": 341
+          "noteCount": 144
         },
         {
           "name": "Medium",
@@ -229,10 +229,10 @@
           "noteCount": 213
         },
         {
-          "name": "Easy",
-          "level": 4,
+          "name": "Hard",
+          "level": 8,
           "chartPath": "/charts/Mainstream%20Songs/Another%20Night%20(DJ%20Tora%20Vocal%20Mix)/Another%20Night%20(DJ%20Tora%20Vocal%20Mix).sm",
-          "noteCount": 144
+          "noteCount": 341
         }
       ],
       "banner": "/charts/Mainstream%20Songs/Another%20Night%20(DJ%20Tora%20Vocal%20Mix)/banner.png",
@@ -244,6 +244,12 @@
       "artist": "Real McCoy",
       "bpm": 126,
       "difficulties": [
+        {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy.sm",
+          "noteCount": 93
+        },
         {
           "name": "Easy",
           "level": 3,
@@ -261,12 +267,6 @@
           "level": 9,
           "chartPath": "/charts/Mainstream%20Songs/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy.sm",
           "noteCount": 357
-        },
-        {
-          "name": "Beginner",
-          "level": 1,
-          "chartPath": "/charts/Mainstream%20Songs/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy.sm",
-          "noteCount": 93
         }
       ],
       "banner": "/charts/Mainstream%20Songs/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy/ANOTHER%20NIGHT%2C%20ANOTHER%20DREAM%20-%20Real%20McCoy.png",
@@ -356,6 +356,12 @@
       "bpm": 112.02,
       "difficulties": [
         {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/BACKDOOR%20LOVER/BACKDOOR%20LOVER.sm",
+          "noteCount": 101
+        },
+        {
           "name": "Easy",
           "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/BACKDOOR%20LOVER/BACKDOOR%20LOVER.sm",
@@ -372,12 +378,6 @@
           "level": 7,
           "chartPath": "/charts/Mainstream%20Songs/BACKDOOR%20LOVER/BACKDOOR%20LOVER.sm",
           "noteCount": 229
-        },
-        {
-          "name": "Beginner",
-          "level": 1,
-          "chartPath": "/charts/Mainstream%20Songs/BACKDOOR%20LOVER/BACKDOOR%20LOVER.sm",
-          "noteCount": 101
         }
       ],
       "banner": "/charts/Mainstream%20Songs/BACKDOOR%20LOVER/BACKDOOR%20LOVER.png",
@@ -433,28 +433,28 @@
       },
       "difficulties": [
         {
-          "name": "Medium",
-          "level": 5,
-          "chartPath": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/Bad%20Boy%20(Radio%20Mix).sm",
-          "noteCount": 200
-        },
-        {
           "name": "Easy",
           "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/Bad%20Boy%20(Radio%20Mix).sm",
           "noteCount": 169
         },
         {
-          "name": "Challenge",
-          "level": 9,
+          "name": "Medium",
+          "level": 5,
           "chartPath": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/Bad%20Boy%20(Radio%20Mix).sm",
-          "noteCount": 387
+          "noteCount": 200
         },
         {
           "name": "Hard",
           "level": 6,
           "chartPath": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/Bad%20Boy%20(Radio%20Mix).sm",
           "noteCount": 289
+        },
+        {
+          "name": "Challenge",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/Bad%20Boy%20(Radio%20Mix).sm",
+          "noteCount": 387
         }
       ],
       "banner": "/charts/Mainstream%20Songs/Bad%20Boy%20(Radio%20Mix)/badboy-bn.png",
@@ -593,6 +593,24 @@
       },
       "difficulties": [
         {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
+          "noteCount": 148
+        },
+        {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
+          "noteCount": 249
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
+          "noteCount": 431
+        },
+        {
           "name": "Hard",
           "level": 7,
           "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
@@ -603,24 +621,6 @@
           "level": 10,
           "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
           "noteCount": 939
-        },
-        {
-          "name": "Medium",
-          "level": 5,
-          "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
-          "noteCount": 431
-        },
-        {
-          "name": "Easy",
-          "level": 3,
-          "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
-          "noteCount": 249
-        },
-        {
-          "name": "Beginner",
-          "level": 1,
-          "chartPath": "/charts/Mainstream%20Songs/Beep/Beep.sm",
-          "noteCount": 148
         }
       ],
       "banner": "/charts/Mainstream%20Songs/Beep/Beep.png",
@@ -701,28 +701,28 @@
       "bpm": 134,
       "difficulties": [
         {
-          "name": "Easy",
-          "level": 3,
-          "chartPath": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.sm",
-          "noteCount": 207
-        },
-        {
-          "name": "Hard",
-          "level": 7,
-          "chartPath": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.sm",
-          "noteCount": 421
-        },
-        {
           "name": "Beginner",
           "level": 2,
           "chartPath": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.sm",
           "noteCount": 142
         },
         {
+          "name": "Easy",
+          "level": 3,
+          "chartPath": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.sm",
+          "noteCount": 207
+        },
+        {
           "name": "Medium",
           "level": 5,
           "chartPath": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.sm",
           "noteCount": 259
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.sm",
+          "noteCount": 421
         }
       ],
       "banner": "/charts/Mainstream%20Songs/BING%20BANG/BING%20BANG.png",
@@ -778,6 +778,12 @@
       },
       "difficulties": [
         {
+          "name": "Beginner",
+          "level": 2,
+          "chartPath": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way).sm",
+          "noteCount": 90
+        },
+        {
           "name": "Easy",
           "level": 4,
           "chartPath": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way).sm",
@@ -790,22 +796,16 @@
           "noteCount": 348
         },
         {
-          "name": "Challenge",
-          "level": 9,
-          "chartPath": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way).sm",
-          "noteCount": 471
-        },
-        {
           "name": "Hard",
           "level": 8,
           "chartPath": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way).sm",
           "noteCount": 399
         },
         {
-          "name": "Beginner",
-          "level": 2,
+          "name": "Challenge",
+          "level": 9,
           "chartPath": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way).sm",
-          "noteCount": 90
+          "noteCount": 471
         }
       ],
       "banner": "/charts/Mainstream%20Songs/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)/Bom%20Digi%20Bom%20(Think%20About%20The%20Way)%20BN.png",
@@ -824,6 +824,12 @@
           "noteCount": 88
         },
         {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls.sm",
+          "noteCount": 149
+        },
+        {
           "name": "Medium",
           "level": 6,
           "chartPath": "/charts/Mainstream%20Songs/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls.sm",
@@ -834,12 +840,6 @@
           "level": 7,
           "chartPath": "/charts/Mainstream%20Songs/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls.sm",
           "noteCount": 267
-        },
-        {
-          "name": "Easy",
-          "level": 4,
-          "chartPath": "/charts/Mainstream%20Songs/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls.sm",
-          "noteCount": 149
         }
       ],
       "banner": "/charts/Mainstream%20Songs/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls/BUTTONS%20(Dave%20Aude%20Button%20Fly%20Mix)%20-%20The%20Pussycat%20Dolls.png",
@@ -1043,16 +1043,10 @@
       "bpm": 101,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 7,
+          "name": "Beginner",
+          "level": 1,
           "chartPath": "/charts/Mainstream%20Songs/CHEMISTRY%20OF%20A%20CAR%20CRASH/CHEMISTRY%20OF%20A%20CAR%20CRASH.sm",
-          "noteCount": 195
-        },
-        {
-          "name": "Medium",
-          "level": 6,
-          "chartPath": "/charts/Mainstream%20Songs/CHEMISTRY%20OF%20A%20CAR%20CRASH/CHEMISTRY%20OF%20A%20CAR%20CRASH.sm",
-          "noteCount": 163
+          "noteCount": 55
         },
         {
           "name": "Easy",
@@ -1061,10 +1055,16 @@
           "noteCount": 104
         },
         {
-          "name": "Beginner",
-          "level": 1,
+          "name": "Medium",
+          "level": 6,
           "chartPath": "/charts/Mainstream%20Songs/CHEMISTRY%20OF%20A%20CAR%20CRASH/CHEMISTRY%20OF%20A%20CAR%20CRASH.sm",
-          "noteCount": 55
+          "noteCount": 163
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/CHEMISTRY%20OF%20A%20CAR%20CRASH/CHEMISTRY%20OF%20A%20CAR%20CRASH.sm",
+          "noteCount": 195
         }
       ],
       "banner": "/charts/Mainstream%20Songs/CHEMISTRY%20OF%20A%20CAR%20CRASH/CHEMISTRY%20OF%20A%20CAR%20CRASH.png",
@@ -1185,18 +1185,6 @@
       "bpm": 112.72,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 7,
-          "chartPath": "/charts/Mainstream%20Songs/Dangerous/Dangerous.sm",
-          "noteCount": 238
-        },
-        {
-          "name": "Medium",
-          "level": 4,
-          "chartPath": "/charts/Mainstream%20Songs/Dangerous/Dangerous.sm",
-          "noteCount": 160
-        },
-        {
           "name": "Beginner",
           "level": 1,
           "chartPath": "/charts/Mainstream%20Songs/Dangerous/Dangerous.sm",
@@ -1207,6 +1195,18 @@
           "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/Dangerous/Dangerous.sm",
           "noteCount": 146
+        },
+        {
+          "name": "Medium",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/Dangerous/Dangerous.sm",
+          "noteCount": 160
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/Dangerous/Dangerous.sm",
+          "noteCount": 238
         }
       ],
       "banner": "/charts/Mainstream%20Songs/Dangerous/dangerous%20bn.png",
@@ -1219,10 +1219,10 @@
       "bpm": 252.004,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 8,
+          "name": "Easy",
+          "level": 4,
           "chartPath": "/charts/Mainstream%20Songs/death%20from%20above/death%20from%20above.sm",
-          "noteCount": 425
+          "noteCount": 129
         },
         {
           "name": "Medium",
@@ -1231,10 +1231,10 @@
           "noteCount": 225
         },
         {
-          "name": "Easy",
-          "level": 4,
+          "name": "Hard",
+          "level": 8,
           "chartPath": "/charts/Mainstream%20Songs/death%20from%20above/death%20from%20above.sm",
-          "noteCount": 129
+          "noteCount": 425
         }
       ],
       "banner": "/charts/Mainstream%20Songs/death%20from%20above/death%20from%20above.png",
@@ -1549,10 +1549,22 @@
       "bpm": 145,
       "difficulties": [
         {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/xtc/Extacy.sm",
+          "noteCount": 126
+        },
+        {
           "name": "Easy",
           "level": 4,
           "chartPath": "/charts/Mainstream%20Songs/xtc/Extacy.sm",
           "noteCount": 280
+        },
+        {
+          "name": "Medium",
+          "level": 6,
+          "chartPath": "/charts/Mainstream%20Songs/xtc/Extacy.sm",
+          "noteCount": 385
         },
         {
           "name": "Hard",
@@ -1565,18 +1577,6 @@
           "level": 11,
           "chartPath": "/charts/Mainstream%20Songs/xtc/Extacy.sm",
           "noteCount": 828
-        },
-        {
-          "name": "Medium",
-          "level": 6,
-          "chartPath": "/charts/Mainstream%20Songs/xtc/Extacy.sm",
-          "noteCount": 385
-        },
-        {
-          "name": "Beginner",
-          "level": 1,
-          "chartPath": "/charts/Mainstream%20Songs/xtc/Extacy.sm",
-          "noteCount": 126
         }
       ],
       "banner": "/charts/Mainstream%20Songs/xtc/Extacy%20BN.png",
@@ -1623,10 +1623,10 @@
       "bpm": 129.01,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 8,
+          "name": "Easy",
+          "level": 4,
           "chartPath": "/charts/Mainstream%20Songs/FERGALICIOUS/FERGALICIOUS.sm",
-          "noteCount": 437
+          "noteCount": 252
         },
         {
           "name": "Medium",
@@ -1635,16 +1635,16 @@
           "noteCount": 317
         },
         {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/FERGALICIOUS/FERGALICIOUS.sm",
+          "noteCount": 437
+        },
+        {
           "name": "Challenge",
           "level": 9,
           "chartPath": "/charts/Mainstream%20Songs/FERGALICIOUS/FERGALICIOUS.sm",
           "noteCount": 490
-        },
-        {
-          "name": "Easy",
-          "level": 4,
-          "chartPath": "/charts/Mainstream%20Songs/FERGALICIOUS/FERGALICIOUS.sm",
-          "noteCount": 252
         }
       ],
       "banner": "/charts/Mainstream%20Songs/FERGALICIOUS/FERGALICIOUS-banner.png",
@@ -2070,24 +2070,6 @@
       },
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 9,
-          "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
-          "noteCount": 362
-        },
-        {
-          "name": "Challenge",
-          "level": 10,
-          "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
-          "noteCount": 484
-        },
-        {
-          "name": "Medium",
-          "level": 7,
-          "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
-          "noteCount": 316
-        },
-        {
           "name": "Beginner",
           "level": 2,
           "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
@@ -2098,6 +2080,24 @@
           "level": 5,
           "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
           "noteCount": 206
+        },
+        {
+          "name": "Medium",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
+          "noteCount": 316
+        },
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
+          "noteCount": 362
+        },
+        {
+          "name": "Challenge",
+          "level": 10,
+          "chartPath": "/charts/Mainstream%20Songs/helena/helena.sm",
+          "noteCount": 484
         }
       ],
       "banner": "/charts/Mainstream%20Songs/helena/helena.png",
@@ -2218,10 +2218,10 @@
       "bpm": 141.94,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 8,
+          "name": "Easy",
+          "level": 4,
           "chartPath": "/charts/Mainstream%20Songs/I%20Leave%20The%20World%20Today%20(Video%20Mix)/I%20Leave%20The%20World%20Today%20(Video%20Mix).sm",
-          "noteCount": 251
+          "noteCount": 140
         },
         {
           "name": "Medium",
@@ -2230,10 +2230,10 @@
           "noteCount": 217
         },
         {
-          "name": "Easy",
-          "level": 4,
+          "name": "Hard",
+          "level": 8,
           "chartPath": "/charts/Mainstream%20Songs/I%20Leave%20The%20World%20Today%20(Video%20Mix)/I%20Leave%20The%20World%20Today%20(Video%20Mix).sm",
-          "noteCount": 140
+          "noteCount": 251
         }
       ],
       "banner": "/charts/Mainstream%20Songs/I%20Leave%20The%20World%20Today%20(Video%20Mix)/I%20Leave%20The%20World%20Today%20(Video%20Mix)-bn.png",
@@ -2502,10 +2502,10 @@
       },
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 7,
+          "name": "Easy",
+          "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/jng/jng.sm",
-          "noteCount": 301
+          "noteCount": 120
         },
         {
           "name": "Medium",
@@ -2514,10 +2514,10 @@
           "noteCount": 196
         },
         {
-          "name": "Easy",
-          "level": 3,
+          "name": "Hard",
+          "level": 7,
           "chartPath": "/charts/Mainstream%20Songs/jng/jng.sm",
-          "noteCount": 120
+          "noteCount": 301
         }
       ],
       "banner": "/charts/Mainstream%20Songs/jng/jng.png",
@@ -3165,22 +3165,10 @@
       "bpm": 180,
       "difficulties": [
         {
-          "name": "Challenge",
-          "level": 11,
+          "name": "Beginner",
+          "level": 2,
           "chartPath": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ssc",
-          "noteCount": 766
-        },
-        {
-          "name": "Hard",
-          "level": 10,
-          "chartPath": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ssc",
-          "noteCount": 544
-        },
-        {
-          "name": "Medium",
-          "level": 8,
-          "chartPath": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ssc",
-          "noteCount": 395
+          "noteCount": 179
         },
         {
           "name": "Easy",
@@ -3189,10 +3177,22 @@
           "noteCount": 304
         },
         {
-          "name": "Beginner",
-          "level": 2,
+          "name": "Medium",
+          "level": 8,
           "chartPath": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ssc",
-          "noteCount": 179
+          "noteCount": 395
+        },
+        {
+          "name": "Hard",
+          "level": 10,
+          "chartPath": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ssc",
+          "noteCount": 544
+        },
+        {
+          "name": "Challenge",
+          "level": 11,
+          "chartPath": "/charts/mecha-tribe-assault/Mecha-Tribe%20Assault.ssc",
+          "noteCount": 766
         }
       ],
       "banner": "/charts/mecha-tribe-assault/mechatribeassaultbn.png",
@@ -3288,16 +3288,16 @@
           "noteCount": 182
         },
         {
-          "name": "Hard",
-          "level": 9,
-          "chartPath": "/charts/Mainstream%20Songs/milkshake%20(extended%20cut)/milkshake%20(extended%20cut).sm",
-          "noteCount": 457
-        },
-        {
           "name": "Medium",
           "level": 6,
           "chartPath": "/charts/Mainstream%20Songs/milkshake%20(extended%20cut)/milkshake%20(extended%20cut).sm",
           "noteCount": 313
+        },
+        {
+          "name": "Hard",
+          "level": 9,
+          "chartPath": "/charts/Mainstream%20Songs/milkshake%20(extended%20cut)/milkshake%20(extended%20cut).sm",
+          "noteCount": 457
         },
         {
           "name": "Challenge",
@@ -3384,10 +3384,10 @@
       "bpm": 126.98,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 8,
+          "name": "Easy",
+          "level": 4,
           "chartPath": "/charts/Mainstream%20Songs/Ojos%20Asi/Ojos%20Asi.sm",
-          "noteCount": 320
+          "noteCount": 185
         },
         {
           "name": "Medium",
@@ -3396,10 +3396,10 @@
           "noteCount": 253
         },
         {
-          "name": "Easy",
-          "level": 4,
+          "name": "Hard",
+          "level": 8,
           "chartPath": "/charts/Mainstream%20Songs/Ojos%20Asi/Ojos%20Asi.sm",
-          "noteCount": 185
+          "noteCount": 320
         }
       ],
       "banner": "/charts/Mainstream%20Songs/Ojos%20Asi/Ojos%20Asi.png",
@@ -3412,16 +3412,10 @@
       "bpm": 133.083,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 7,
+          "name": "Beginner",
+          "level": 1,
           "chartPath": "/charts/Mainstream%20Songs/ONE%20MORE%20TIME/ONE%20MORE%20TIME.sm",
-          "noteCount": 302
-        },
-        {
-          "name": "Medium",
-          "level": 5,
-          "chartPath": "/charts/Mainstream%20Songs/ONE%20MORE%20TIME/ONE%20MORE%20TIME.sm",
-          "noteCount": 204
+          "noteCount": 90
         },
         {
           "name": "Easy",
@@ -3430,10 +3424,16 @@
           "noteCount": 163
         },
         {
-          "name": "Beginner",
-          "level": 1,
+          "name": "Medium",
+          "level": 5,
           "chartPath": "/charts/Mainstream%20Songs/ONE%20MORE%20TIME/ONE%20MORE%20TIME.sm",
-          "noteCount": 90
+          "noteCount": 204
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/ONE%20MORE%20TIME/ONE%20MORE%20TIME.sm",
+          "noteCount": 302
         }
       ],
       "banner": "/charts/Mainstream%20Songs/ONE%20MORE%20TIME/ONE%20MORE%20TIME.png",
@@ -3526,6 +3526,12 @@
       },
       "difficulties": [
         {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/poison/poison.sm",
+          "noteCount": 53
+        },
+        {
           "name": "Easy",
           "level": 4,
           "chartPath": "/charts/Mainstream%20Songs/poison/poison.sm",
@@ -3542,12 +3548,6 @@
           "level": 7,
           "chartPath": "/charts/Mainstream%20Songs/poison/poison.sm",
           "noteCount": 245
-        },
-        {
-          "name": "Beginner",
-          "level": 1,
-          "chartPath": "/charts/Mainstream%20Songs/poison/poison.sm",
-          "noteCount": 53
         }
       ],
       "banner": "/charts/Mainstream%20Songs/poison/POISON%20BN.png",
@@ -3597,10 +3597,10 @@
       },
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 8,
+          "name": "Easy",
+          "level": 4,
           "chartPath": "/charts/Mainstream%20Songs/Quem%20Sabe/Quem%20Sabe.sm",
-          "noteCount": 389
+          "noteCount": 183
         },
         {
           "name": "Medium",
@@ -3609,10 +3609,10 @@
           "noteCount": 315
         },
         {
-          "name": "Easy",
-          "level": 4,
+          "name": "Hard",
+          "level": 8,
           "chartPath": "/charts/Mainstream%20Songs/Quem%20Sabe/Quem%20Sabe.sm",
-          "noteCount": 183
+          "noteCount": 389
         }
       ],
       "banner": "/charts/Mainstream%20Songs/Quem%20Sabe/Quem%20Sabe.png",
@@ -3662,6 +3662,12 @@
       "bpm": 93.14,
       "difficulties": [
         {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/rewind/rewind.sm",
+          "noteCount": 58
+        },
+        {
           "name": "Easy",
           "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/rewind/rewind.sm",
@@ -3678,12 +3684,6 @@
           "level": 6,
           "chartPath": "/charts/Mainstream%20Songs/rewind/rewind.sm",
           "noteCount": 211
-        },
-        {
-          "name": "Beginner",
-          "level": 1,
-          "chartPath": "/charts/Mainstream%20Songs/rewind/rewind.sm",
-          "noteCount": 58
         }
       ],
       "banner": "/charts/Mainstream%20Songs/rewind/REWIND-bn.png",
@@ -3736,10 +3736,10 @@
       "bpm": 143,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 8,
+          "name": "Easy",
+          "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/ROKING%20SUN%20(Delaction%20Remix)/ROKING%20SUN%20(Delaction%20Remix).sm",
-          "noteCount": 423
+          "noteCount": 212
         },
         {
           "name": "Medium",
@@ -3748,10 +3748,10 @@
           "noteCount": 356
         },
         {
-          "name": "Easy",
-          "level": 3,
+          "name": "Hard",
+          "level": 8,
           "chartPath": "/charts/Mainstream%20Songs/ROKING%20SUN%20(Delaction%20Remix)/ROKING%20SUN%20(Delaction%20Remix).sm",
-          "noteCount": 212
+          "noteCount": 423
         }
       ],
       "banner": "/charts/Mainstream%20Songs/ROKING%20SUN%20(Delaction%20Remix)/ROKING%20SUN%20(Delaction%20Remix).png",
@@ -3767,10 +3767,10 @@
       },
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 7,
+          "name": "Easy",
+          "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/Roses%20are%20red/Roses%20are%20red.sm",
-          "noteCount": 324
+          "noteCount": 138
         },
         {
           "name": "Medium",
@@ -3779,10 +3779,10 @@
           "noteCount": 226
         },
         {
-          "name": "Easy",
-          "level": 3,
+          "name": "Hard",
+          "level": 7,
           "chartPath": "/charts/Mainstream%20Songs/Roses%20are%20red/Roses%20are%20red.sm",
-          "noteCount": 138
+          "noteCount": 324
         }
       ],
       "banner": "/charts/Mainstream%20Songs/Roses%20are%20red/Roses%20are%20red-BN.png",
@@ -3869,12 +3869,6 @@
       "bpm": 143,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 8,
-          "chartPath": "/charts/Mainstream%20Songs/SAY%20IT%20RIGHT%20(Delaction%20Remix)/SAY%20IT%20RIGHT%20(Delaction%20Remix).sm",
-          "noteCount": 336
-        },
-        {
           "name": "Easy",
           "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/SAY%20IT%20RIGHT%20(Delaction%20Remix)/SAY%20IT%20RIGHT%20(Delaction%20Remix).sm",
@@ -3885,6 +3879,12 @@
           "level": 5,
           "chartPath": "/charts/Mainstream%20Songs/SAY%20IT%20RIGHT%20(Delaction%20Remix)/SAY%20IT%20RIGHT%20(Delaction%20Remix).sm",
           "noteCount": 239
+        },
+        {
+          "name": "Hard",
+          "level": 8,
+          "chartPath": "/charts/Mainstream%20Songs/SAY%20IT%20RIGHT%20(Delaction%20Remix)/SAY%20IT%20RIGHT%20(Delaction%20Remix).sm",
+          "noteCount": 336
         }
       ],
       "banner": "/charts/Mainstream%20Songs/SAY%20IT%20RIGHT%20(Delaction%20Remix)/SAY%20IT%20RIGHT%20(Delaction%20Remix).png",
@@ -3897,12 +3897,6 @@
       "bpm": 141.997,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 7,
-          "chartPath": "/charts/Mainstream%20Songs/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix)/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix).sm",
-          "noteCount": 364
-        },
-        {
           "name": "Easy",
           "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix)/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix).sm",
@@ -3913,6 +3907,12 @@
           "level": 5,
           "chartPath": "/charts/Mainstream%20Songs/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix)/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix).sm",
           "noteCount": 264
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix)/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix).sm",
+          "noteCount": 364
         }
       ],
       "banner": "/charts/Mainstream%20Songs/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix)/SELF%20ESTEEM%20(Skazi%20and%20Irritante%20Remix).png",
@@ -3968,10 +3968,10 @@
       },
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 8,
+          "name": "Easy",
+          "level": 4,
           "chartPath": "/charts/Mainstream%20Songs/sidology3/sidology3.sm",
-          "noteCount": 1777
+          "noteCount": 730
         },
         {
           "name": "Medium",
@@ -3980,10 +3980,10 @@
           "noteCount": 1265
         },
         {
-          "name": "Easy",
-          "level": 4,
+          "name": "Hard",
+          "level": 8,
           "chartPath": "/charts/Mainstream%20Songs/sidology3/sidology3.sm",
-          "noteCount": 730
+          "noteCount": 1777
         }
       ],
       "banner": "/charts/Mainstream%20Songs/sidology3/sidology3.png",
@@ -4030,10 +4030,10 @@
       "bpm": 132.99,
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 8,
+          "name": "Easy",
+          "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/Smells%20Like%20Teen%20Spirit/Smells%20Like%20Teen%20Spirit.sm",
-          "noteCount": 326
+          "noteCount": 146
         },
         {
           "name": "Medium",
@@ -4042,10 +4042,10 @@
           "noteCount": 237
         },
         {
-          "name": "Easy",
-          "level": 3,
+          "name": "Hard",
+          "level": 8,
           "chartPath": "/charts/Mainstream%20Songs/Smells%20Like%20Teen%20Spirit/Smells%20Like%20Teen%20Spirit.sm",
-          "noteCount": 146
+          "noteCount": 326
         }
       ],
       "banner": "/charts/Mainstream%20Songs/Smells%20Like%20Teen%20Spirit/Smells%20Like%20Teen%20Spirit%20BN.png",
@@ -4101,16 +4101,16 @@
           "noteCount": 106
         },
         {
-          "name": "Medium",
-          "level": 5,
-          "chartPath": "/charts/Mainstream%20Songs/Somebody%20Told%20Me/SOMEBODY%20TOLD%20ME.sm",
-          "noteCount": 254
-        },
-        {
           "name": "Easy",
           "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/Somebody%20Told%20Me/SOMEBODY%20TOLD%20ME.sm",
           "noteCount": 140
+        },
+        {
+          "name": "Medium",
+          "level": 5,
+          "chartPath": "/charts/Mainstream%20Songs/Somebody%20Told%20Me/SOMEBODY%20TOLD%20ME.sm",
+          "noteCount": 254
         },
         {
           "name": "Hard",
@@ -4641,16 +4641,16 @@
       },
       "difficulties": [
         {
-          "name": "Easy",
-          "level": 4,
-          "chartPath": "/charts/Mainstream%20Songs/The%20Call%20(Thunderpuss%20Radio%20Edit)/The%20Call%20(Thunderpuss%20Radio%20Edit).sm",
-          "noteCount": 167
-        },
-        {
           "name": "Beginner",
           "level": 1,
           "chartPath": "/charts/Mainstream%20Songs/The%20Call%20(Thunderpuss%20Radio%20Edit)/The%20Call%20(Thunderpuss%20Radio%20Edit).sm",
           "noteCount": 111
+        },
+        {
+          "name": "Easy",
+          "level": 4,
+          "chartPath": "/charts/Mainstream%20Songs/The%20Call%20(Thunderpuss%20Radio%20Edit)/The%20Call%20(Thunderpuss%20Radio%20Edit).sm",
+          "noteCount": 167
         },
         {
           "name": "Medium",
@@ -5191,10 +5191,10 @@
       },
       "difficulties": [
         {
-          "name": "Hard",
-          "level": 7,
+          "name": "Beginner",
+          "level": 1,
           "chartPath": "/charts/Mainstream%20Songs/White%20Bird%20(Airscape%20Mix)/White%20Bird%20(Airscape%20Mix).sm",
-          "noteCount": 292
+          "noteCount": 79
         },
         {
           "name": "Easy",
@@ -5203,16 +5203,16 @@
           "noteCount": 163
         },
         {
-          "name": "Beginner",
-          "level": 1,
-          "chartPath": "/charts/Mainstream%20Songs/White%20Bird%20(Airscape%20Mix)/White%20Bird%20(Airscape%20Mix).sm",
-          "noteCount": 79
-        },
-        {
           "name": "Medium",
           "level": 4,
           "chartPath": "/charts/Mainstream%20Songs/White%20Bird%20(Airscape%20Mix)/White%20Bird%20(Airscape%20Mix).sm",
           "noteCount": 238
+        },
+        {
+          "name": "Hard",
+          "level": 7,
+          "chartPath": "/charts/Mainstream%20Songs/White%20Bird%20(Airscape%20Mix)/White%20Bird%20(Airscape%20Mix).sm",
+          "noteCount": 292
         }
       ],
       "banner": "/charts/Mainstream%20Songs/White%20Bird%20(Airscape%20Mix)/White%20Bird%20(Airscape%20Mix)%20BN.png",
@@ -5373,6 +5373,12 @@
       "bpm": 120,
       "difficulties": [
         {
+          "name": "Beginner",
+          "level": 1,
+          "chartPath": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate.sm",
+          "noteCount": 93
+        },
+        {
           "name": "Easy",
           "level": 3,
           "chartPath": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate.sm",
@@ -5395,12 +5401,6 @@
           "level": 8,
           "chartPath": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate.sm",
           "noteCount": 418
-        },
-        {
-          "name": "Beginner",
-          "level": 1,
-          "chartPath": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate.sm",
-          "noteCount": 93
         }
       ],
       "banner": "/charts/Mainstream%20Songs/You're%20A%20Pirate/You're%20A%20Pirate%20BN.png",
@@ -5447,5 +5447,5 @@
       "audioFile": "/charts/JBEAN%20Originals%20-%202025/Yum/Yum.ogg"
     }
   ],
-  "generatedAt": "2026-01-25T22:46:31.788Z"
+  "generatedAt": "2026-01-28T15:18:48.861Z"
 }

@@ -11,8 +11,6 @@ import { calculateBeatsAhead } from "./visibility";
 
 export interface GameEngineOptions {
 	showFps?: boolean;
-	showTimingDisplay?: boolean;
-	showAudioLatency?: boolean;
 	rendererOptions?: RendererOptions;
 	speedModifier?: SpeedModifier | null;
 	songOffset?: number;
@@ -63,11 +61,7 @@ export class GameEngine {
 		this.performanceMonitor = new PerformanceMonitor();
 
 		if (options.showFps) {
-			this.fpsCounter = new FpsCounter(
-				this.performanceMonitor,
-				options.showTimingDisplay ?? false,
-				options.showAudioLatency ?? false,
-			);
+			this.fpsCounter = new FpsCounter(this.performanceMonitor);
 		}
 
 		// Wire up input (keyboard + gamepad)
@@ -263,6 +257,7 @@ export class GameEngine {
 		this.performanceMonitor.endFrame();
 
 		if (this.fpsCounter) {
+			this.fpsCounter.setBpm(bpm);
 			this.fpsCounter.update();
 		}
 

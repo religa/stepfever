@@ -150,12 +150,14 @@ async function buildSongIndex(): Promise<void> {
 				bpm = minBpm === maxBpm ? minBpm : { min: Math.round(minBpm), max: Math.round(maxBpm) };
 			}
 
-			const difficulties: SongIndexDifficulty[] = chart.difficulties.map((d) => ({
-				name: d.name,
-				level: d.meter,
-				chartPath: encodeUrlPath(`/charts/${relPath}/${basename(chartPath)}`),
-				noteCount: d.notes.length,
-			}));
+			const difficulties: SongIndexDifficulty[] = chart.difficulties
+				.map((d) => ({
+					name: d.name,
+					level: d.meter,
+					chartPath: encodeUrlPath(`/charts/${relPath}/${basename(chartPath)}`),
+					noteCount: d.notes.length,
+				}))
+				.sort((a, b) => a.level - b.level);
 
 			const entry: SongIndexEntry = {
 				id: songId,

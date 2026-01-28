@@ -3,15 +3,12 @@ import type { PerformanceMonitor } from "./PerformanceMonitor";
 export class FpsCounter {
 	private element: HTMLDivElement;
 	private monitor: PerformanceMonitor;
-	private showTimingDisplay: boolean;
-	private showAudioLatency: boolean;
 	private lastTimingError: number | null = null;
 	private audioLatency = 0;
+	private currentBpm = 0;
 
-	constructor(monitor: PerformanceMonitor, showTimingDisplay = false, showAudioLatency = false) {
+	constructor(monitor: PerformanceMonitor) {
 		this.monitor = monitor;
-		this.showTimingDisplay = showTimingDisplay;
-		this.showAudioLatency = showAudioLatency;
 		this.element = document.createElement("div");
 		this.element.style.cssText = `
       position: fixed;
@@ -36,6 +33,10 @@ export class FpsCounter {
 		this.audioLatency = latencyMs;
 	}
 
+	setBpm(bpm: number): void {
+		this.currentBpm = bpm;
+	}
+
 	update(): void {
 		const metrics = this.monitor.getMetrics();
 		const fps = Math.round(metrics.fps);
@@ -43,20 +44,22 @@ export class FpsCounter {
 		const frameTime = metrics.frameTime.toFixed(1);
 		const jitter = metrics.frameTimeJitter.toFixed(1);
 		const memory = metrics.memoryUsage ? `${metrics.memoryUsage.toFixed(1)} MB` : "N/A";
+		const bpm = Math.round(this.currentBpm);
 
 		let html = `
+      BPM: ${bpm}<br>
       FPS: ${fps} (low: ${worst})<br>
       Frame: ${frameTime}ms ±${jitter}ms<br>
       Memory: ${memory}
     `;
 
-		// Debug-only audio latency
-		if (this.showAudioLatency && this.audioLatency > 0) {
+		// Audio latency
+		if (this.audioLatency > 0) {
 			html += `<br>Audio: ${this.audioLatency.toFixed(0)}ms`;
 		}
 
-		// Add timing display if enabled
-		if (this.showTimingDisplay && this.lastTimingError !== null) {
+		// Timing display
+		if (this.lastTimingError !== null) {
 			const errorMs = Math.round(this.lastTimingError);
 			const errorText = errorMs > 0 ? `+${errorMs}ms` : `${errorMs}ms`;
 			const absError = Math.abs(errorMs);
